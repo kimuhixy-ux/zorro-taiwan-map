@@ -94,6 +94,87 @@ def strip_house_number(address: str):
     return None
 
 
+# Nominatimは「市」「區」「道路」が区切りなしで連結された中国語住所
+# （例: 臺北市大同區延平北路四段）をうまく解釈できないことが多い。
+# 「道路, 區, 市」のようにカンマ区切りへ整形すると通り名レベルでの
+# ヒット率が大きく改善する。英語住所も「Street, City」の形に絞ると同様に改善する。
+
+CITY_NAMES_ZH = [
+    "臺北市", "台北市", "新北市", "桃園市", "臺中市", "台中市", "臺南市", "台南市",
+    "高雄市", "基隆市", "新竹市", "新竹縣", "苗栗縣", "彰化縣", "南投縣", "雲林縣",
+    "嘉義市", "嘉義縣", "屏東縣", "宜蘭縣", "花蓮縣", "臺東縣", "台東縣",
+    "澎湖縣", "金門縣", "連江縣",
+]
+CITY_RE_ZH = re.compile("^(" + "|".join(CITY_NAMES_ZH) + ")")
+DISTRICT_RE_ZH = re.compile(r"^(\S+?[區市鄉鎮])")
+ROAD_RE_ZH = re.compile(r"(.+?(?:路|街|大道)(?:[一二三四五六七八九十]+段)?)")
+
+CITY_NAMES_EN = [
+    "Taipei City", "New Taipei City", "Taoyuan City", "Taichung City", "Tainan City",
+    "Kaohsiung City", "Keelung City", "Hsinchu City", "Hsinchu County", "Miaoli County",
+    "Changhua County", "Nantou County", "Yunlin County", "Chiayi City", "Chiayi County",
+    "Pingtung County", "Yilan County", "Hualien County", "Taitung County",
+    "Penghu County", "Kinmen County", "Lienchiang County",
+]
+ROAD_KEYWORDS_EN = re.compile(
+    r"\b(Street|St|Road|Rd|Avenue|Ave|Lane|Ln|Boulevard|Blvd|Alley)\b", re.IGNORECASE
+)
+SECTION_RE_EN = re.compile(r"^Section\s*\d+$", re.IGNORECASE)
+POSTAL_RE = re.compile(r"^\d{3,6}$")
+
+
+def reformatted_query_candidates(address: str):
+    """住所を「道路, 區, 市」/「Street, City」の形に整形したクエリ候補を返す。
+    精度の高い順（區まで含む→道路+市のみ）にリストで返す。"""
+    address = re.sub(r"^\d{3,6}\s*", "", address.strip())
+    city_match = CITY_RE_ZH.match(address)
+
+    # 「No. 20號, Jinxi Street, ...」のように英語主体でも「號」等の漢字が
+    # 混ざることがあるため、判定は「先頭が中国語の市名で始まるか」で行う
+    if city_match:
+        city = city_match.group(1)
+        rest = address[city_match.end():]
+
+        district_match = DISTRICT_RE_ZH.match(rest)
+        district = district_match.group(1) if district_match else None
+        rest_after_district = rest[district_match.end():] if district_match else rest
+
+        road_match = ROAD_RE_ZH.search(rest_after_district)
+        if not road_match:
+            return []
+        road = road_match.group(1)
+
+        candidates = []
+        if district:
+            candidates.append(f"{road}, {district}, {city}")
+        candidates.append(f"{road}, {city}")
+        return candidates
+
+    # 英語住所: カンマ区切りされている前提でセグメントを分類する
+    segments = [s.strip() for s in address.split(",") if s.strip()]
+    city = None
+    road_parts = []
+    for seg in segments:
+        if POSTAL_RE.match(seg):
+            continue
+        if seg in CITY_NAMES_EN:
+            city = seg
+            continue
+        if seg.endswith("District") or seg.endswith("Township"):
+            continue
+        if SECTION_RE_EN.match(seg):
+            road_parts.append(seg)
+            continue
+        if ROAD_KEYWORDS_EN.search(seg):
+            road_parts.append(seg)
+
+    if not city or not road_parts:
+        return []
+
+    road = " ".join(road_parts)
+    return [f"{road}, {city}"]
+
+
 def query_nominatim(query: str):
     resp = requests.get(
         NOMINATIM_URL,
@@ -110,7 +191,7 @@ def query_nominatim(query: str):
 
 def geocode_address(address: str):
     """住所をジオコーディングする。完全住所で見つからない場合は、
-    番地・階数を除いた通り名レベルで再検索する（精度は落ちるがおおよその位置は取得できる）。
+    「道路, 區, 市」形式に整形し直して再検索する（精度は落ちるがおおよその位置は取得できる）。
     戻り値: (lat, lng, precision) の3要素タプル、または None
     precision は "exact"（番地まで一致）または "approximate"（通り名レベル）
     """
@@ -118,10 +199,14 @@ def geocode_address(address: str):
     if result:
         return result[0], result[1], "exact"
 
-    fallback = strip_house_number(address)
-    if fallback:
+    fallback_queries = reformatted_query_candidates(address)
+    simple_fallback = strip_house_number(address)
+    if simple_fallback and simple_fallback not in fallback_queries:
+        fallback_queries.append(simple_fallback)
+
+    for query in fallback_queries:
         time.sleep(REQUEST_INTERVAL_SEC)
-        result = query_nominatim(fallback)
+        result = query_nominatim(query)
         if result:
             return result[0], result[1], "approximate"
 
@@ -129,6 +214,11 @@ def geocode_address(address: str):
 
 
 def main():
+    stars_filter = None
+    for arg in sys.argv[1:]:
+        if arg.startswith("--stars="):
+            stars_filter = int(arg.split("=", 1)[1])
+
     stores = load_json(STORES_PATH, [])
     if not stores:
         sys.exit(
@@ -140,6 +230,9 @@ def main():
         print(f"manual_check.csv から {imported}件の緯度経度を取り込みました。")
 
     to_geocode = [s for s in stores if "lat" not in s or "lng" not in s]
+    if stars_filter is not None:
+        to_geocode = [s for s in to_geocode if s.get("stars") == stars_filter]
+        print(f"（--stars={stars_filter} 指定により対象を絞り込み）")
     print(f"ジオコーディング対象: {len(to_geocode)}件 / 全{len(stores)}件")
 
     for i, store in enumerate(to_geocode, start=1):
