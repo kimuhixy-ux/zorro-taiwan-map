@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>ゾロの台湾グルメMAP（非公式）</title>
+<meta name="description" content="YouTube「ゾロの台湾グルメ」で紹介された飲食店の非公式ファンメイドマップ">
+
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#c41e1e">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="ゾロ台湾MAP">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <header id="header">
+    <h1>ゾロの台湾グルメMAP <span class="badge">非公式</span></h1>
+    <div class="top-actions">
+      <button id="star3-toggle" class="star3-toggle" aria-pressed="false">⭐3のみ表示</button>
+      <button id="filter-toggle" class="filter-toggle" aria-expanded="false" aria-controls="filter-panel">
+        <span class="filter-toggle-icon">▤</span> 絞り込み
+      </button>
+    </div>
+  </header>
+
+  <div id="filter-panel" class="filter-panel" hidden>
+    <div class="filter-section">
+      <label for="search-input">店名で検索</label>
+      <input type="search" id="search-input" placeholder="店名を入力...">
+    </div>
+
+    <div class="filter-section">
+      <span class="filter-label">評価</span>
+      <div class="chip-group" id="stars-filter">
+        <label class="chip"><input type="checkbox" value="3" checked><span class="chip-dot gold"></span>⭐3</label>
+        <label class="chip"><input type="checkbox" value="2" checked><span class="chip-dot orange"></span>⭐2</label>
+        <label class="chip"><input type="checkbox" value="1" checked><span class="chip-dot blue"></span>⭐1</label>
+        <label class="chip"><input type="checkbox" value="null" checked><span class="chip-dot gray"></span>不明</label>
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <label for="area-filter">エリア</label>
+      <select id="area-filter">
+        <option value="all">すべて</option>
+        <option value="台北">台北</option>
+        <option value="新北">新北</option>
+        <option value="台中">台中</option>
+        <option value="台南">台南</option>
+        <option value="高雄">高雄</option>
+        <option value="その他">その他</option>
+      </select>
+    </div>
+
+    <div class="filter-section">
+      <label for="genre-filter">ジャンル</label>
+      <select id="genre-filter">
+        <option value="all">すべて</option>
+      </select>
+    </div>
+
+    <div class="filter-section filter-count" id="filter-count"></div>
+
+    <button id="filter-reset" class="filter-reset">絞り込みをリセット</button>
+  </div>
+
+  <div id="map"></div>
+
+  <div id="legend" class="legend">
+    <div class="legend-item"><span class="legend-dot gold"></span>⭐3 自信を持っておすすめ</div>
+    <div class="legend-item"><span class="legend-dot orange"></span>⭐2 安くて美味しくて値打ちあり</div>
+    <div class="legend-item"><span class="legend-dot blue"></span>⭐1 それ以外</div>
+    <div class="legend-item"><span class="legend-dot gray"></span>評価不明</div>
+  </div>
+
+  <footer id="footer">
+    本アプリは非公式のファンメイドです。店舗情報はYouTubeチャンネル「ゾロの台湾グルメ」の公開情報に基づきます。
+  </footer>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

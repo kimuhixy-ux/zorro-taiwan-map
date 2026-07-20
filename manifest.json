@@ -1,0 +1,24 @@
+{
+  "name": "ゾロの台湾グルメMAP（非公式）",
+  "short_name": "ゾロ台湾MAP",
+  "description": "YouTubeチャンネル「ゾロの台湾グルメ」で紹介された飲食店の非公式ファンメイドマップ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#c41e1e",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

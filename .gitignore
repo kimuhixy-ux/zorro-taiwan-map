@@ -1,0 +1,5 @@
+.env
+data/videos_raw.json
+__pycache__/
+*.pyc
+.DS_Store
