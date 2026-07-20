@@ -122,6 +122,15 @@ ROAD_KEYWORDS_EN = re.compile(
 SECTION_RE_EN = re.compile(r"^Section\s*\d+$", re.IGNORECASE)
 POSTAL_RE = re.compile(r"^\d{3,6}$")
 
+# Nominatimは「Road, Taipei City」のように市名に「City」「County」を付けたまま
+# 道路名と組み合わせると検索に失敗することが多い（市名単体では見つかるのに）。
+# 「Road, Taipei」のように接尾辞を外すとヒット率が改善する。
+CITY_SUFFIX_RE_EN = re.compile(r"\s+(City|County)$")
+
+
+def short_city_en(city: str) -> str:
+    return CITY_SUFFIX_RE_EN.sub("", city)
+
 
 def reformatted_query_candidates(address: str):
     """住所を「道路, 區, 市」/「Street, City」の形に整形したクエリ候補を返す。
@@ -172,7 +181,11 @@ def reformatted_query_candidates(address: str):
         return []
 
     road = " ".join(road_parts)
-    return [f"{road}, {city}"]
+    short_city = short_city_en(city)
+    candidates = [f"{road}, {short_city}"]
+    if short_city != city:
+        candidates.append(f"{road}, {city}")
+    return candidates
 
 
 def query_nominatim(query: str):
