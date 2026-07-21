@@ -154,6 +154,22 @@ html, body {
 
 .chip input { margin: 0; }
 
+.chip-btn {
+  border: 1px solid #ccc;
+  border-radius: 16px;
+  padding: 6px 12px;
+  font-size: 13px;
+  background: #fafafa;
+  color: #333;
+}
+
+.chip-btn.active {
+  background: var(--red);
+  border-color: var(--red);
+  color: #fff;
+  font-weight: bold;
+}
+
 .chip-dot, .legend-dot {
   width: 12px;
   height: 12px;

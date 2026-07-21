@@ -8,11 +8,29 @@ let starThreeLayer;
 let clusterLayer;
 let map;
 
+// 表記ゆれ（魯肉飯／滷肉飯 など）をまとめて拾えるよう、
+// 各料理につき複数のキーワードを持たせている
+const DISH_PRESETS = [
+  { label: "魯肉飯", keywords: ["魯肉飯", "滷肉飯", "ルーロー飯"] },
+  { label: "牛肉麺", keywords: ["牛肉麺", "牛肉麵"] },
+  { label: "小籠包", keywords: ["小籠包"] },
+  { label: "鶏肉飯", keywords: ["鶏肉飯", "雞肉飯"] },
+  { label: "豆花", keywords: ["豆花"] },
+  { label: "水餃子", keywords: ["水餃", "餃子", "蒸餃"] },
+  { label: "麺線", keywords: ["麺線"] },
+  { label: "臭豆腐", keywords: ["臭豆腐"] },
+  { label: "かき氷", keywords: ["かき氷"] },
+  { label: "火鍋", keywords: ["火鍋"] },
+  { label: "鵝肉・鴨肉飯", keywords: ["鵝肉", "鴨肉飯"] },
+  { label: "胡椒餅", keywords: ["胡椒餅"] },
+];
+
 const state = {
   search: "",
   stars: new Set([3, 2, 1, "unknown"]),
   area: "all",
   genre: "all",
+  dish: null,
 };
 
 function escapeHtml(str) {
@@ -92,15 +110,23 @@ function buildPopup(store) {
     </div>`;
 }
 
+function storeSearchableText(store) {
+  return [store.name, store.name_ja, store.genre]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
 function matchesFilters(store) {
   if (!state.stars.has(starKey(store.stars))) return false;
   if (state.area !== "all" && classifyArea(store.address) !== state.area) return false;
   if (state.genre !== "all" && store.genre !== state.genre) return false;
+  if (state.dish) {
+    const text = storeSearchableText(store);
+    if (!state.dish.keywords.some((kw) => text.includes(kw.toLowerCase()))) return false;
+  }
   if (state.search) {
-    const q = state.search;
-    const name = (store.name || "").toLowerCase();
-    const nameJa = (store.name_ja || "").toLowerCase();
-    if (!name.includes(q) && !nameJa.includes(q)) return false;
+    if (!storeSearchableText(store).includes(state.search)) return false;
   }
   return true;
 }
@@ -160,6 +186,7 @@ function setupFilterUI() {
   const searchInput = document.getElementById("search-input");
   searchInput.addEventListener("input", () => {
     state.search = searchInput.value.trim().toLowerCase();
+    if (state.search) clearDishSelection();
     renderMarkers();
   });
 
@@ -194,9 +221,39 @@ function setupFilterUI() {
     state.area = "all";
     state.genre = "all";
     state.stars = new Set([3, 2, 1, "unknown"]);
+    clearDishSelection();
     syncStar3ToggleButton();
     renderMarkers();
   });
+}
+
+function clearDishSelection() {
+  state.dish = null;
+  const container = document.getElementById("dish-filter");
+  container.querySelectorAll(".chip-btn").forEach((el) => el.classList.remove("active"));
+}
+
+function setupDishButtons() {
+  const container = document.getElementById("dish-filter");
+  for (const preset of DISH_PRESETS) {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "chip-btn";
+    btn.textContent = preset.label;
+    btn.addEventListener("click", () => {
+      const isActive = btn.classList.contains("active");
+      const searchInput = document.getElementById("search-input");
+      searchInput.value = "";
+      state.search = "";
+      clearDishSelection();
+      if (!isActive) {
+        state.dish = preset;
+        btn.classList.add("active");
+      }
+      renderMarkers();
+    });
+    container.appendChild(btn);
+  }
 }
 
 function syncStar3ToggleButton() {
@@ -255,6 +312,7 @@ async function main() {
   initMap();
   setupFilterUI();
   setupStar3Toggle();
+  setupDishButtons();
 
   try {
     allStores = await loadStores();
