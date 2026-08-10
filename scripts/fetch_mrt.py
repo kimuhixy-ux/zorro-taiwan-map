@@ -4,10 +4,11 @@ fetch_mrt.py
 Overpass API から取得し、data/mrt_lines.json に保存する。
 
 - route=subway のリレーションを台湾のバウンディングボックスで検索
-- 同じ物理路線が「順向」「逆向」など往復方向ごとに別リレインとして
+- 同じ物理路線が「順向」「逆向」など往復方向ごとに別リレーションとして
   登録されていることが多いため、(ref, 色, 事業者) が同じものは
-  最初の1件だけを採用して重複描画を避ける
-- 駅（role=stop 等のノード）は路線をまたいで名前+座標で重複排除する
+  members数が最も多い（＝最も情報が揃っている）1件だけを採用する
+- 駅（role=stop 等、または role なしでrailway=station等が付いたノード）は
+  路線をまたいで名前+座標で重複排除する
 
 実行方法:
     python3 scripts/fetch_mrt.py
@@ -36,7 +37,22 @@ QUERY = f"""
 out geom;
 """
 
-STOP_ROLES = {"stop", "stop_entry_only", "stop_exit_only", "platform"}
+# role="stop"等が付いていないリレーション（例: 淡水信義線・松山新店線）があり、
+# その場合はノード自体のタグ（railway=station等）で駅かどうかを判定する
+STOP_ROLES = {"", "stop", "stop_entry_only", "stop_exit_only", "platform"}
+STATION_RAILWAY_VALUES = {"station", "halt"}
+STATION_PUBLIC_TRANSPORT_VALUES = {"station", "stop_position"}
+
+
+def is_station_node(node: dict, role: str) -> bool:
+    if role in STOP_ROLES - {""}:
+        return True
+    if role == "":
+        return (
+            node.get("railway") in STATION_RAILWAY_VALUES
+            or node.get("public_transport") in STATION_PUBLIC_TRANSPORT_VALUES
+        )
+    return False
 
 # Overpassのタグにcolourが無い路線用のフォールバック色（台中MRT緑線）
 FALLBACK_COLORS = {
@@ -83,38 +99,52 @@ def main():
         if el["type"] == "way" and "geometry" in el:
             ways[el["id"]] = [[pt["lat"], pt["lon"]] for pt in el["geometry"]]
         elif el["type"] == "node":
+            node_tags = el.get("tags") or {}
             nodes[el["id"]] = {
                 "lat": el["lat"],
                 "lng": el["lon"],
-                "name": (el.get("tags") or {}).get("name"),
+                "name": node_tags.get("name"),
+                "railway": node_tags.get("railway"),
+                "public_transport": node_tags.get("public_transport"),
             }
         elif el["type"] == "relation":
             relations.append(el)
 
-    seen_keys = set()
+    # 同じ物理路線が「順向/逆向」や新旧マッピングで複数リレーションに
+    # 分かれて存在することがあり、単純に最初の1件を採用すると駅数の少ない
+    # 不完全なリレーションを選んでしまうことがある（例: 松山新店線）。
+    # そのため同じ(ref, 色, 事業者)の中では members数が最も多いものを採用する。
+    best_by_key = {}
+    for rel in relations:
+        tags = rel.get("tags") or {}
+        ref = tags.get("ref") or tags.get("name") or f"relation/{rel['id']}"
+        operator = tags.get("operator") or "unknown"
+        color = tags.get("colour") or FALLBACK_COLORS.get(operator) or "#888888"
+        key = (ref, color, operator)
+
+        member_count = len(rel.get("members", []))
+        current_best = best_by_key.get(key)
+        if current_best is None or member_count > len(current_best.get("members", [])):
+            best_by_key[key] = rel
+
     lines = []
     station_map = {}  # (name, rounded_lat, rounded_lng) -> station dict
 
-    for rel in relations:
+    for rel in best_by_key.values():
         tags = rel.get("tags") or {}
         name = tags.get("name") or tags.get("ref") or f"relation/{rel['id']}"
         ref = tags.get("ref") or name
         operator = tags.get("operator") or "unknown"
         color = tags.get("colour") or FALLBACK_COLORS.get(operator) or "#888888"
 
-        key = (ref, color, operator)
-        if key in seen_keys:
-            continue
-        seen_keys.add(key)
-
         segments = []
         line_stations = []
         for member in rel.get("members", []):
             if member["type"] == "way" and member["ref"] in ways:
                 segments.append(ways[member["ref"]])
-            elif member["type"] == "node" and member.get("role") in STOP_ROLES:
+            elif member["type"] == "node":
                 node = nodes.get(member["ref"])
-                if node and node["name"]:
+                if node and node["name"] and is_station_node(node, member.get("role") or ""):
                     line_stations.append(node)
 
         if not segments:

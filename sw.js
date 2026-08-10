@@ -1,4 +1,4 @@
-const CACHE_NAME = "zorro-taiwan-map-v2";
+const CACHE_NAME = "zorro-taiwan-map-v3";
 const DATA_JSON_URL_PATTERN = /data\/(stores|mrt_lines)\.json(\?.*)?$/;
 
 const PRECACHE_URLS = [
