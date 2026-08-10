@@ -7,6 +7,12 @@ let allStores = [];
 let starThreeLayer;
 let clusterLayer;
 let map;
+let mrtLineLayer;
+let mrtStationLayer;
+
+// 駅名ラベルは全ズームで出すと台北など密集エリアで潰れるため、
+// このズーム以上でのみ表示する
+const MRT_STATION_MIN_ZOOM = 13;
 
 // 表記ゆれ（魯肉飯／滷肉飯 など）をまとめて拾えるよう、
 // 各料理につき複数のキーワードを持たせている
@@ -289,6 +295,52 @@ async function loadStores() {
   return data.filter((s) => typeof s.lat === "number" && typeof s.lng === "number");
 }
 
+async function loadMrtLines() {
+  const res = await fetch("data/mrt_lines.json", { cache: "no-cache" });
+  if (!res.ok) throw new Error("mrt_lines.json の読み込みに失敗しました");
+  return res.json();
+}
+
+function renderMrtLines(mrtData) {
+  for (const line of mrtData.lines) {
+    for (const segment of line.segments) {
+      L.polyline(segment, { color: line.color, weight: 4, opacity: 0.85 })
+        .bindPopup(`<div class="popup-title">${escapeHtml(line.name)}</div>`)
+        .addTo(mrtLineLayer);
+    }
+  }
+
+  for (const station of mrtData.stations) {
+    const marker = L.circleMarker([station.lat, station.lng], {
+      radius: 4,
+      weight: 1.5,
+      color: "#333",
+      fillColor: "#fff",
+      fillOpacity: 1,
+    });
+    marker.bindTooltip(station.name, {
+      permanent: true,
+      direction: "right",
+      offset: [5, 0],
+      className: "mrt-station-label",
+    });
+    marker.bindPopup(
+      `<div class="popup-title">${escapeHtml(station.name)}</div><div class="popup-row">${escapeHtml(station.lines.join(" / "))}</div>`
+    );
+    marker.addTo(mrtStationLayer);
+  }
+}
+
+// ズームレベルに応じて駅名レイヤーの表示/非表示を切り替える
+function updateMrtStationVisibility() {
+  const shouldShow = map.getZoom() >= MRT_STATION_MIN_ZOOM;
+  if (shouldShow && !map.hasLayer(mrtStationLayer)) {
+    mrtStationLayer.addTo(map);
+  } else if (!shouldShow && map.hasLayer(mrtStationLayer)) {
+    map.removeLayer(mrtStationLayer);
+  }
+}
+
 function initMap() {
   map = L.map("map", { zoomControl: false });
   L.control.zoom({ position: "bottomright" }).addTo(map);
@@ -303,6 +355,10 @@ function initMap() {
     disableClusteringAtZoom: 17,
     maxClusterRadius: 50,
   }).addTo(map);
+
+  mrtLineLayer = L.layerGroup().addTo(map);
+  mrtStationLayer = L.layerGroup();
+  map.on("zoomend", updateMrtStationVisibility);
 
   // 台湾全体が収まる初期ビュー（台北中心）
   map.setView([23.9, 121.0], 8);
@@ -323,6 +379,14 @@ async function main() {
 
   populateGenreOptions(allStores);
   renderMarkers();
+
+  try {
+    const mrtData = await loadMrtLines();
+    renderMrtLines(mrtData);
+    updateMrtStationVisibility();
+  } catch (e) {
+    console.error(e);
+  }
 
   if (allStores.length > 0) {
     const bounds = L.latLngBounds(allStores.map((s) => [s.lat, s.lng]));

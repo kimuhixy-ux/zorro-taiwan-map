@@ -1,5 +1,5 @@
-const CACHE_NAME = "zorro-taiwan-map-v1";
-const STORES_URL_PATTERN = /data\/stores\.json(\?.*)?$/;
+const CACHE_NAME = "zorro-taiwan-map-v2";
+const DATA_JSON_URL_PATTERN = /data\/(stores|mrt_lines)\.json(\?.*)?$/;
 
 const PRECACHE_URLS = [
   "./",
@@ -31,8 +31,8 @@ self.addEventListener("fetch", (event) => {
   const { request } = event;
   if (request.method !== "GET") return;
 
-  if (STORES_URL_PATTERN.test(request.url)) {
-    // stores.json: network-first、オフライン時はキャッシュにフォールバック
+  if (DATA_JSON_URL_PATTERN.test(request.url)) {
+    // stores.json / mrt_lines.json: network-first、オフライン時はキャッシュにフォールバック
     event.respondWith(
       fetch(request)
         .then((response) => {
