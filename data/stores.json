@@ -11417,7 +11417,10 @@
         "published_at": "2024-11-27T11:00:57Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0526211,
+    "lng": 121.51426079999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "方家雞肉飯",
@@ -13619,7 +13622,10 @@
         "published_at": "2024-08-21T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1307007,
+    "lng": 121.7455281,
+    "geocode_precision": "google-address"
   },
   {
     "name": "順記現炸紅燒肉",
@@ -14996,7 +15002,10 @@
         "published_at": "2023-10-24T11:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.998948199999997,
+    "lng": 120.20462579999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Donutes",
@@ -15063,7 +15072,10 @@
         "published_at": "2023-10-24T11:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.0038453,
+    "lng": 120.1598012,
+    "geocode_precision": "google-name"
   },
   {
     "name": "文章牛肉湯",
@@ -15092,7 +15104,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9984789,
+    "lng": 120.17808729999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "台南シャングリラホテル",
@@ -15115,7 +15130,10 @@
         "published_at": "2023-10-24T11:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9966569,
+    "lng": 120.21442669999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "中成52號小炒燒烤",
@@ -15138,7 +15156,10 @@
         "published_at": "2023-10-24T11:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9978515,
+    "lng": 120.20533109999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "四草緑色隊道",
@@ -15155,7 +15176,10 @@
         "published_at": "2024-05-01T11:00:57Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.0196399,
+    "lng": 120.1361465,
+    "geocode_precision": "google-name"
   },
   {
     "name": "全聯福利中心 台南林森店",
@@ -15178,7 +15202,10 @@
         "published_at": "2023-10-27T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.982519099999998,
+    "lng": 120.22081019999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "佳味排骨麺",
@@ -15796,7 +15823,10 @@
         "published_at": "2024-02-12T11:00:37Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0335035,
+    "lng": 121.53011799999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "廖家飯糰",
@@ -16667,7 +16697,10 @@
         "published_at": "2023-12-06T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0846028,
+    "lng": 121.56144169999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "宜蘭文昌炸醤麺",
@@ -16690,7 +16723,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.757914700000004,
+    "lng": 121.7514739,
+    "geocode_precision": "google-name"
   },
   {
     "name": "北門蒜味肉羹",
@@ -16707,7 +16743,10 @@
         "published_at": "2023-12-03T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.7602279,
+    "lng": 121.75373090000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "原味豆花",
@@ -16724,7 +16763,10 @@
         "published_at": "2023-12-03T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.127686999999998,
+    "lng": 120.67410799999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "羅東紅豆湯圓",
@@ -16747,7 +16789,10 @@
         "published_at": "2023-01-18T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.674885,
+    "lng": 121.7704436,
+    "geocode_precision": "google-name"
   },
   {
     "name": "鶏肉麺",
@@ -16781,7 +16826,10 @@
         "published_at": "2023-11-27T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0437127,
+    "lng": 121.54520900000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金龍焢肉飯",
@@ -16798,7 +16846,10 @@
         "published_at": "2023-11-24T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0887845,
+    "lng": 121.5248984,
+    "geocode_precision": "google-name"
   },
   {
     "name": "久榮自助餐",
@@ -16815,7 +16866,10 @@
         "published_at": "2023-11-24T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.089691900000002,
+    "lng": 121.5264304,
+    "geocode_precision": "google-name"
   },
   {
     "name": "易易海南雞飯",
@@ -16832,7 +16886,10 @@
         "published_at": "2023-11-24T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0884417,
+    "lng": 121.5240872,
+    "geocode_precision": "google-name"
   },
   {
     "name": "南門市場",
@@ -16849,7 +16906,10 @@
         "published_at": "2023-11-21T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0324803,
+    "lng": 121.51800340000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Sleepy Tofu Taipei Store",
@@ -16878,7 +16938,10 @@
         "published_at": "2023-11-06T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0354399,
+    "lng": 121.5434466,
+    "geocode_precision": "google-name"
   },
   {
     "name": "施福建好吃雞肉",
@@ -16895,7 +16958,10 @@
         "published_at": "2023-11-18T11:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0467004,
+    "lng": 121.50403550000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "來來冰室ComeCome Benz",
@@ -16912,7 +16978,10 @@
         "published_at": "2023-11-18T11:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0256634,
+    "lng": 121.4978476,
+    "geocode_precision": "google-name"
   },
   {
     "name": "士林廣澤擔仔麺",
@@ -16929,7 +16998,10 @@
         "published_at": "2023-11-15T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.100522400000003,
+    "lng": 121.52353239999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "華榮市場",
@@ -16946,7 +17018,10 @@
         "published_at": "2023-11-15T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0959358,
+    "lng": 121.5234665,
+    "geocode_precision": "google-name"
   },
   {
     "name": "東道飲食亭",
@@ -16963,7 +17038,10 @@
         "published_at": "2023-11-12T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.9340744,
+    "lng": 121.36855289999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "最高 居酒屋",
@@ -16980,7 +17058,10 @@
         "published_at": "2023-11-06T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.051275,
+    "lng": 121.5262231,
+    "geocode_precision": "google-name"
   },
   {
     "name": "よしの",
@@ -17023,7 +17104,10 @@
         "published_at": "2023-11-06T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0507703,
+    "lng": 121.52344830000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "麗英麺攤",
@@ -17046,7 +17130,10 @@
         "published_at": "2023-04-18T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0481427,
+    "lng": 121.52631319999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "良得小吃店",
@@ -17063,7 +17150,10 @@
         "published_at": "2023-11-03T11:00:50Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0591401,
+    "lng": 121.525809,
+    "geocode_precision": "google-name"
   },
   {
     "name": "四草緑色隧道",
@@ -17080,7 +17170,10 @@
         "published_at": "2023-10-27T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.0196399,
+    "lng": 120.1361465,
+    "geocode_precision": "google-name"
   },
   {
     "name": "快焱自助餐店",
@@ -17097,7 +17190,10 @@
         "published_at": "2023-10-21T11:00:39Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0557759,
+    "lng": 121.523855,
+    "geocode_precision": "google-name"
   },
   {
     "name": "梁記滷味",
@@ -17114,7 +17210,10 @@
         "published_at": "2023-10-18T11:01:00Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.030021899999998,
+    "lng": 121.55523970000002,
+    "geocode_precision": "google-name"
   },
   {
     "name": "駱記小炒",
@@ -17131,7 +17230,10 @@
         "published_at": "2023-10-18T11:01:00Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0287281,
+    "lng": 121.5538123,
+    "geocode_precision": "approximate"
   },
   {
     "name": "御品元傳統手工元宵",
@@ -17148,7 +17250,10 @@
         "published_at": "2023-10-18T11:01:00Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.030231999999998,
+    "lng": 121.55540049999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "通化夜市九份芋圓",
@@ -17165,7 +17270,10 @@
         "published_at": "2023-10-18T11:01:00Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0300786,
+    "lng": 121.5549736,
+    "geocode_precision": "google-name"
   },
   {
     "name": "雙連良鹹湯圓",
@@ -17182,7 +17290,10 @@
         "published_at": "2023-10-12T11:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.056955199999997,
+    "lng": 121.5166862,
+    "geocode_precision": "google-name"
   },
   {
     "name": "打咔生猛活海鮮",
@@ -17199,7 +17310,10 @@
         "published_at": "2023-10-09T11:00:51Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0320385,
+    "lng": 121.5190512,
+    "geocode_precision": "google-name"
   },
   {
     "name": "一番屋",
@@ -17216,7 +17330,10 @@
         "published_at": "2023-09-30T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0630785,
+    "lng": 121.5199453,
+    "geocode_precision": "google-name"
   },
   {
     "name": "李家良友牛肉麺",
@@ -17233,7 +17350,10 @@
         "published_at": "2023-09-27T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.052490499999998,
+    "lng": 121.5603245,
+    "geocode_precision": "google-name"
   },
   {
     "name": "北大荒水餃店",
@@ -17250,7 +17370,10 @@
         "published_at": "2023-09-24T11:00:38Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.055094,
+    "lng": 121.61167830000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "幸福肥計劃咖啡店",
@@ -17267,7 +17390,10 @@
         "published_at": "2023-09-24T11:00:38Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.054625599999998,
+    "lng": 121.6130036,
+    "geocode_precision": "google-name"
   },
   {
     "name": "六月初一",
@@ -17284,7 +17410,10 @@
         "published_at": "2023-09-24T11:00:38Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.047919699999998,
+    "lng": 121.5169349,
+    "geocode_precision": "google-name"
   },
   {
     "name": "本願豆花 漢中店",
@@ -17301,7 +17430,10 @@
         "published_at": "2023-09-21T11:00:42Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0451719,
+    "lng": 121.5076227,
+    "geocode_precision": "google-name"
   },
   {
     "name": "司法院員工餐廳",
@@ -17318,7 +17450,10 @@
         "published_at": "2023-09-18T11:00:33Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.038695699999998,
+    "lng": 121.51141039999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "小鮮肉創意湯包",
@@ -17335,7 +17470,10 @@
         "published_at": "2023-09-15T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.014664099999997,
+    "lng": 121.46074200000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "拾梯甜日式舒芙蕾專売店",
@@ -17352,7 +17490,10 @@
         "published_at": "2023-09-15T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0151024,
+    "lng": 121.46048119999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "永楽市場",
@@ -17375,7 +17516,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.05484,
+    "lng": 121.51021600000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "小南門福州傻瓜乾麵 延平總店",
@@ -17392,7 +17536,10 @@
         "published_at": "2023-09-09T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0354302,
+    "lng": 121.50780089999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "陸光小吃館",
@@ -17409,7 +17556,10 @@
         "published_at": "2023-09-06T11:00:22Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0360931,
+    "lng": 121.54758969999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金旺来蔬果専売店",
@@ -17426,7 +17576,10 @@
         "published_at": "2023-09-06T11:00:22Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.036662900000003,
+    "lng": 121.54592169999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "山東婆婆",
@@ -17443,7 +17596,10 @@
         "published_at": "2023-09-03T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.975654,
+    "lng": 121.51658160000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "吳寶春麥方店 臺北信義旗艦店",
@@ -17460,7 +17616,10 @@
         "published_at": "2023-09-03T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0324046,
+    "lng": 121.5690053,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老漿家",
@@ -17477,7 +17636,10 @@
         "published_at": "2023-08-30T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.040802,
+    "lng": 121.55449300000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "以馬內利鮮魚湯",
@@ -17494,7 +17656,10 @@
         "published_at": "2023-08-27T11:00:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.043616000000004,
+    "lng": 121.52688339999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "蜜密牛軋餅",
@@ -17511,7 +17676,10 @@
         "published_at": "2023-08-27T11:00:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.033305300000002,
+    "lng": 121.527329,
+    "geocode_precision": "google-name"
   },
   {
     "name": "許記意麺",
@@ -17528,7 +17696,10 @@
         "published_at": "2023-08-24T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0589081,
+    "lng": 121.51893079999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "昶鴻麺店",
@@ -17545,7 +17716,10 @@
         "published_at": "2023-08-21T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.039475,
+    "lng": 121.49859060000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "華西街觀光夜市",
@@ -17562,7 +17736,10 @@
         "published_at": "2023-08-21T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0385988,
+    "lng": 121.49844259999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "69年老店麺攤",
@@ -17605,7 +17782,10 @@
         "published_at": "2023-08-15T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0551019,
+    "lng": 121.50998299999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "滋養製菓",
@@ -17640,7 +17820,10 @@
         "published_at": "2022-10-27T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.060479299999997,
+    "lng": 121.5094493,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Jolley Hotel",
@@ -17657,7 +17840,10 @@
         "published_at": "2023-08-15T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0647581,
+    "lng": 121.525572,
+    "geocode_precision": "google-name"
   },
   {
     "name": "鶏湯栄麺食館",
@@ -17680,7 +17866,10 @@
         "published_at": "2023-06-12T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0602382,
+    "lng": 121.5238835,
+    "geocode_precision": "google-name"
   },
   {
     "name": "榕美樹館",
@@ -17703,7 +17892,10 @@
         "published_at": "2022-11-18T11:00:39Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0569138,
+    "lng": 121.52082850000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "精気神養生会館中山店",
@@ -17720,7 +17912,10 @@
         "published_at": "2023-08-15T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0576326,
+    "lng": 121.5230488,
+    "geocode_precision": "google-name"
   },
   {
     "name": "新娘子麺店小吃",
@@ -17737,7 +17932,10 @@
         "published_at": "2023-08-09T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0516331,
+    "lng": 121.5683932,
+    "geocode_precision": "google-name"
   },
   {
     "name": "台灣美食/地方小吃",
@@ -17754,7 +17952,10 @@
         "published_at": "2023-08-06T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0449669,
+    "lng": 121.50753309999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "糖村SUGAR&SPICE",
@@ -17771,7 +17972,10 @@
         "published_at": "2023-08-06T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0408932,
+    "lng": 121.5432417,
+    "geocode_precision": "google-name"
   },
   {
     "name": "鴨肉麺",
@@ -17788,7 +17992,10 @@
         "published_at": "2023-08-03T11:00:42Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.048613699999997,
+    "lng": 121.53135420000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "江浙點心",
@@ -17805,7 +18012,10 @@
         "published_at": "2023-07-27T11:00:47Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0333279,
+    "lng": 121.5290861,
+    "geocode_precision": "google-name"
   },
   {
     "name": "上信饌玉",
@@ -17822,7 +18032,10 @@
         "published_at": "2023-07-27T11:00:47Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0316127,
+    "lng": 121.52929400000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "千里行足體養生會館",
@@ -17839,7 +18052,10 @@
         "published_at": "2023-07-24T11:00:42Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0518549,
+    "lng": 121.5302263,
+    "geocode_precision": "google-name"
   },
   {
     "name": "喜悦川菜",
@@ -17856,7 +18072,10 @@
         "published_at": "2023-07-21T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0594146,
+    "lng": 121.52491529999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "如香小炒店",
@@ -17873,7 +18092,10 @@
         "published_at": "2023-07-18T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.060470600000002,
+    "lng": 121.53088380000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "義美食品",
@@ -17890,7 +18112,10 @@
         "published_at": "2023-07-18T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.059487299999997,
+    "lng": 121.5231379,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿芳魯肉飯",
@@ -17907,7 +18132,10 @@
         "published_at": "2023-07-15T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.055781399999997,
+    "lng": 121.3796749,
+    "geocode_precision": "google-name"
   },
   {
     "name": "正義豆漿店",
@@ -17924,7 +18152,10 @@
         "published_at": "2023-07-12T11:00:00Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.065200299999997,
+    "lng": 121.49690319999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿田麺",
@@ -17973,7 +18204,10 @@
         "published_at": "2022-12-03T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.136264099999998,
+    "lng": 121.49706659999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "北投 呉家豆花",
@@ -17990,7 +18224,10 @@
         "published_at": "2023-07-06T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1367056,
+    "lng": 121.49548609999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老担麺店",
@@ -18007,7 +18244,10 @@
         "published_at": "2023-07-03T11:00:31Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.034377,
+    "lng": 121.4992652,
+    "geocode_precision": "google-name"
   },
   {
     "name": "龍都冰果専業家",
@@ -18050,7 +18290,10 @@
         "published_at": "2023-06-30T11:00:49Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.117010999999998,
+    "lng": 121.53338099999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "青島餃子館",
@@ -18067,7 +18310,10 @@
         "published_at": "2023-06-27T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0751287,
+    "lng": 121.6170009,
+    "geocode_precision": "google-name"
   },
   {
     "name": "甜庄豆花",
@@ -18084,7 +18330,10 @@
         "published_at": "2023-06-27T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.059278000000003,
+    "lng": 121.53913119999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "華南排骨便當專門店",
@@ -18101,7 +18350,10 @@
         "published_at": "2023-06-24T11:00:20Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0459177,
+    "lng": 121.51239329999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "台北李儀餅店",
@@ -18118,7 +18370,10 @@
         "published_at": "2023-06-24T11:00:20Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0469641,
+    "lng": 121.5137045,
+    "geocode_precision": "google-name"
   },
   {
     "name": "河南熗鍋麺",
@@ -18135,7 +18390,10 @@
         "published_at": "2023-06-21T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.072948,
+    "lng": 121.4990326,
+    "geocode_precision": "google-name"
   },
   {
     "name": "享味清粥",
@@ -18152,7 +18410,10 @@
         "published_at": "2023-06-15T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.065246199999997,
+    "lng": 121.49906859999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "上宇林",
@@ -18169,7 +18430,10 @@
         "published_at": "2023-06-15T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.046166,
+    "lng": 121.513746,
+    "geocode_precision": "google-name"
   },
   {
     "name": "小樂精緻麵食館 民權店",
@@ -18186,7 +18450,10 @@
         "published_at": "2023-06-09T11:00:46Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.976300199999997,
+    "lng": 121.5369912,
+    "geocode_precision": "google-name"
   },
   {
     "name": "三角氷氷品專賣店",
@@ -18203,7 +18470,10 @@
         "published_at": "2023-06-09T11:00:46Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0399367,
+    "lng": 121.50259109999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "海爺四號乾麺店",
@@ -18220,7 +18490,10 @@
         "published_at": "2023-06-03T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0040019,
+    "lng": 121.51664430000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Mr.雪腐",
@@ -18237,7 +18510,10 @@
         "published_at": "2023-06-03T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.000578599999997,
+    "lng": 121.51492160000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "包 Great",
@@ -18254,7 +18530,10 @@
         "published_at": "2023-05-27T11:00:29Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0287507,
+    "lng": 121.52656429999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Soypresso",
@@ -18288,7 +18567,10 @@
         "published_at": "2023-05-24T11:00:22Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.058269,
+    "lng": 121.51217,
+    "geocode_precision": "google-name"
   },
   {
     "name": "漫花時（原八号甜）豆花 石花凍",
@@ -18305,7 +18587,10 @@
         "published_at": "2023-05-24T11:00:22Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0539807,
+    "lng": 121.51004440000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "新屋客家麺",
@@ -18322,7 +18607,10 @@
         "published_at": "2023-05-18T11:00:22Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0295566,
+    "lng": 121.52237749999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Kakigori Toshihiko",
@@ -18391,7 +18679,10 @@
         "published_at": "2023-05-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0604169,
+    "lng": 121.5219597,
+    "geocode_precision": "google-name"
   },
   {
     "name": "大麦美而美",
@@ -18408,7 +18699,10 @@
         "published_at": "2023-05-12T11:00:29Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0434536,
+    "lng": 121.52405549999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "紫琳蒸餃館",
@@ -18425,7 +18719,10 @@
         "published_at": "2023-05-09T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0417836,
+    "lng": 121.54793059999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "庄頭豆花担",
@@ -18442,7 +18739,10 @@
         "published_at": "2023-05-09T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0452904,
+    "lng": 121.5469832,
+    "geocode_precision": "google-name"
   },
   {
     "name": "路易莎咖啡",
@@ -18471,7 +18771,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0531768,
+    "lng": 121.5189247,
+    "geocode_precision": "google-name"
   },
   {
     "name": "景気便當店",
@@ -18540,7 +18843,10 @@
         "published_at": "2023-05-06T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.050011299999998,
+    "lng": 121.5144126,
+    "geocode_precision": "google-name"
   },
   {
     "name": "全聯福利中心",
@@ -18557,7 +18863,10 @@
         "published_at": "2023-05-06T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.05729,
+    "lng": 121.51504700000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿亮水餃",
@@ -18574,7 +18883,10 @@
         "published_at": "2023-05-06T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0289474,
+    "lng": 121.50579889999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "貴哥福州麺",
@@ -18591,7 +18903,10 @@
         "published_at": "2023-05-06T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0290468,
+    "lng": 121.50553409999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "光明街油飯",
@@ -18608,7 +18923,10 @@
         "published_at": "2023-05-03T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.9617975,
+    "lng": 121.53932839999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "福州小吃",
@@ -18625,7 +18943,10 @@
         "published_at": "2023-05-03T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.6684512,
+    "lng": 121.76768860000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "嘉義鶏肉飯",
@@ -18668,7 +18989,10 @@
         "published_at": "2023-04-27T11:00:11Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.043394799999998,
+    "lng": 121.5269941,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿川蚵仔麺線",
@@ -18685,7 +19009,10 @@
         "published_at": "2023-04-21T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0569791,
+    "lng": 121.5162818,
+    "geocode_precision": "google-name"
   },
   {
     "name": "李製餅家",
@@ -18702,7 +19029,10 @@
         "published_at": "2023-04-18T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.051874599999998,
+    "lng": 121.52519119999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "龍記搶鍋麺",
@@ -18719,7 +19049,10 @@
         "published_at": "2023-04-15T11:00:37Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0420484,
+    "lng": 121.5109227,
+    "geocode_precision": "google-name"
   },
   {
     "name": "夯麻吉（沖縄日式碳烤麻糬）",
@@ -18736,7 +19069,10 @@
         "published_at": "2023-04-15T11:00:37Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.043643,
+    "lng": 121.50681799999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "瑞安豆漿大王",
@@ -18753,7 +19089,10 @@
         "published_at": "2023-04-12T11:00:10Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0285427,
+    "lng": 121.54138599999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "CO CO都可流行生活飲食",
@@ -18770,7 +19109,10 @@
         "published_at": "2023-04-12T11:00:10Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.044313,
+    "lng": 121.5084253,
+    "geocode_precision": "google-name"
   },
   {
     "name": "台北市公有安東市場",
@@ -18787,7 +19129,10 @@
         "published_at": "2023-04-12T11:00:10Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.028225,
+    "lng": 121.54116230000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "杉味豆花",
@@ -18810,12 +19155,15 @@
         "published_at": "2022-09-27T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.057160099999997,
+    "lng": 121.5176427,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Louisa Coffee 路易．莎咖啡",
     "name_ja": "ルイーサコーヒー（桃園中正門市）",
-    "address": "台湾 桃園市（正確な住所は概要欄に記載なし）",
+    "address": null,
     "stars": null,
     "genre": "コーヒーチェーン",
     "hours": null,
@@ -18827,7 +19175,10 @@
         "published_at": "2023-04-03T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0531768,
+    "lng": 121.5189247,
+    "geocode_precision": "google-name"
   },
   {
     "name": "ホテルオークラ プレステージ台北",
@@ -18888,7 +19239,10 @@
         "published_at": "2022-12-09T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0531768,
+    "lng": 121.5189247,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Louisa coffee",
@@ -18984,7 +19338,10 @@
         "published_at": "2023-03-30T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.9556104,
+    "lng": 121.240614,
+    "geocode_precision": "google-address"
   },
   {
     "name": "中壢観光夜市",
@@ -19020,7 +19377,10 @@
         "published_at": "2023-03-30T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.991997,
+    "lng": 121.30859329999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "桃園観光夜市",
@@ -19056,7 +19416,10 @@
         "published_at": "2023-03-30T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0015074,
+    "lng": 121.30696659999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "転咖啡店 Return Coffee",
@@ -19079,7 +19442,10 @@
         "published_at": "2023-03-24T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.571265399999998,
+    "lng": 120.8241898,
+    "geocode_precision": "google-name"
   },
   {
     "name": "水蜜桃時尚旅店 Peach Hotel",
@@ -19096,7 +19462,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.8038141,
+    "lng": 120.97189350000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "黒皮カ魯肉飯 HAPPY-HWA",
@@ -19113,7 +19482,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.816489800000003,
+    "lng": 121.02674459999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "新竹仮日花市",
@@ -19130,7 +19502,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.8023311,
+    "lng": 120.97983479999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "城隍廟夜市",
@@ -19147,7 +19522,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.804381000000003,
+    "lng": 120.9656054,
+    "geocode_precision": "google-name"
   },
   {
     "name": "柳家肉燥飯",
@@ -19164,7 +19542,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.804332499999997,
+    "lng": 120.96576189999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "廟口鴨香飯",
@@ -19181,7 +19562,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.804113899999997,
+    "lng": 120.96450829999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "公園黒乾麺",
@@ -19198,7 +19582,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.802661999999998,
+    "lng": 120.980532,
+    "geocode_precision": "google-name"
   },
   {
     "name": "許二姊",
@@ -19215,7 +19602,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.8056834,
+    "lng": 120.9657791,
+    "geocode_precision": "google-name"
   },
   {
     "name": "UNIQLO Big City",
@@ -19232,7 +19622,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.8099,
+    "lng": 120.97465129999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "東門市場",
@@ -19249,7 +19642,10 @@
         "published_at": "2023-03-27T11:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0346276,
+    "lng": 121.5267355,
+    "geocode_precision": "google-name"
   },
   {
     "name": "STARBUCKS 星巴克 (日月潭門市)",
@@ -19272,7 +19668,10 @@
         "published_at": "2023-03-21T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.8653452,
+    "lng": 120.91225070000002,
+    "geocode_precision": "google-name"
   },
   {
     "name": "江技旧記餛飩店",
@@ -19289,7 +19688,10 @@
         "published_at": "2023-03-24T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.55229,
+    "lng": 120.81726450000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "天涯海餃",
@@ -19306,7 +19708,10 @@
         "published_at": "2023-03-24T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.5669149,
+    "lng": 120.8243864,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿蘭姉小吃店",
@@ -19323,7 +19728,10 @@
         "published_at": "2023-03-24T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.5512266,
+    "lng": 120.81739999999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "翁記水晶餃",
@@ -19340,7 +19748,10 @@
         "published_at": "2023-03-24T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.551641699999998,
+    "lng": 120.81742009999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "一口香餡餅",
@@ -19357,7 +19768,10 @@
         "published_at": "2023-03-24T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.5687902,
+    "lng": 120.82371699999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "湯家大肉圓",
@@ -19374,7 +19788,10 @@
         "published_at": "2023-03-24T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.5556879,
+    "lng": 120.8175488,
+    "geocode_precision": "google-name"
   },
   {
     "name": "STARBUCKS",
@@ -19397,7 +19814,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.05933,
+    "lng": 121.5132217,
+    "geocode_precision": "google-name"
   },
   {
     "name": "天津苟不理湯包",
@@ -19414,7 +19834,10 @@
         "published_at": "2023-03-21T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.133763500000004,
+    "lng": 120.6881458,
+    "geocode_precision": "google-name"
   },
   {
     "name": "日月潭明湖采堤渡仮館",
@@ -19431,7 +19854,10 @@
         "published_at": "2023-03-21T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.864711699999997,
+    "lng": 120.9113541,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金盆阿嬤的香菰茶葉蛋（玄光店）",
@@ -19448,7 +19874,10 @@
         "published_at": "2023-03-21T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.8667485,
+    "lng": 120.90271469999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "敝姓鍋 - 南投日月潭店",
@@ -19465,7 +19894,10 @@
         "published_at": "2023-03-21T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.8664463,
+    "lng": 120.91105449999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "cama café 彰化站前店",
@@ -19482,7 +19914,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.079085,
+    "lng": 120.5375887,
+    "geocode_precision": "google-name"
   },
   {
     "name": "彰化素食",
@@ -19499,7 +19934,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.079927599999998,
+    "lng": 120.5395244,
+    "geocode_precision": "google-name"
   },
   {
     "name": "猫鼠麺",
@@ -19516,7 +19954,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.079434499999998,
+    "lng": 120.5388875,
+    "geocode_precision": "google-name"
   },
   {
     "name": "挪威森林台中行旅1号館",
@@ -19533,7 +19974,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1379117,
+    "lng": 120.68542819999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "路易莎咖啡 台中民権門市",
@@ -19550,7 +19994,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1371963,
+    "lng": 120.6809351,
+    "geocode_precision": "google-name"
   },
   {
     "name": "洪瑞珍 創始店",
@@ -19567,7 +20014,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.8731522,
+    "lng": 120.523715,
+    "geocode_precision": "google-name"
   },
   {
     "name": "上海未名酸梅湯麺點",
@@ -19584,7 +20034,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1396658,
+    "lng": 120.68005579999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "饕之郷李姐的店",
@@ -19601,7 +20054,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.146606799999997,
+    "lng": 120.65620390000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "逢甲夜市",
@@ -19618,7 +20074,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1761706,
+    "lng": 120.6456267,
+    "geocode_precision": "google-name"
   },
   {
     "name": "冠軍滷肉飯 蚵仔煎",
@@ -19635,7 +20094,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.175876300000002,
+    "lng": 120.6464399,
+    "geocode_precision": "google-name"
   },
   {
     "name": "逢甲温家地瓜球",
@@ -19652,7 +20114,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1780059,
+    "lng": 120.64660760000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "逢甲丹丹香葱油餅",
@@ -19669,7 +20134,10 @@
         "published_at": "2023-03-18T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1786958,
+    "lng": 120.64558930000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "彰化桜山飯店",
@@ -19686,7 +20154,10 @@
         "published_at": "2023-03-15T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.079584999999998,
+    "lng": 120.53950499999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "蚵ㄚ仁肉臊飯/爌肉飯",
@@ -19703,7 +20174,10 @@
         "published_at": "2023-03-15T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.0769266,
+    "lng": 120.53720810000002,
+    "geocode_precision": "google-name"
   },
   {
     "name": "彰化木瓜牛奶大王",
@@ -19720,7 +20194,10 @@
         "published_at": "2023-03-15T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.0780906,
+    "lng": 120.54349520000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老担阿璋肉圓",
@@ -19737,7 +20214,10 @@
         "published_at": "2023-03-15T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.0795711,
+    "lng": 120.5392806,
+    "geocode_precision": "google-name"
   },
   {
     "name": "米弎豆お茶処 / MISATO",
@@ -19754,7 +20234,10 @@
         "published_at": "2023-03-15T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.058304699999997,
+    "lng": 120.43046220000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿章爌肉飯",
@@ -19771,7 +20254,10 @@
         "published_at": "2023-03-15T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.074959399999997,
+    "lng": 120.5441986,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Louisa Coffee 路易．莎咖啡(嘉義圓環門市)",
@@ -19794,7 +20280,10 @@
         "published_at": "2023-03-09T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.4800757,
+    "lng": 120.44931009999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "日式甜點",
@@ -19811,7 +20300,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.027668499999997,
+    "lng": 121.55496869999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Grand Earl Hotel",
@@ -19828,7 +20320,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.710732,
+    "lng": 120.5425767,
+    "geocode_precision": "google-name"
   },
   {
     "name": "斗六第二市場",
@@ -19845,7 +20340,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.7097835,
+    "lng": 120.54055019999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "雲林斗六市雲中街生活聚落",
@@ -19862,7 +20360,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.7087884,
+    "lng": 120.53979539999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "太平老街",
@@ -19879,7 +20380,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5605306,
+    "lng": 120.60304479999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金億陽蘑菰農場",
@@ -19896,7 +20400,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.7385567,
+    "lng": 120.4659098,
+    "geocode_precision": "google-name"
   },
   {
     "name": "京城北方麺食館",
@@ -19913,7 +20420,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.7069799,
+    "lng": 120.54847009999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿国獅魷魚羹",
@@ -19930,7 +20440,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.709481,
+    "lng": 120.54479699999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "長興円仔氷（長興氷店）",
@@ -19947,7 +20460,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.708529199999997,
+    "lng": 120.54514920000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "斗六米倉肉燥飯",
@@ -19964,7 +20480,10 @@
         "published_at": "2023-03-12T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.7029471,
+    "lng": 120.5390351,
+    "geocode_precision": "google-name"
   },
   {
     "name": "国園商務大飯店",
@@ -19981,7 +20500,10 @@
         "published_at": "2023-03-09T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.477615,
+    "lng": 120.44241309999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "和平嘉義火鶏肉飯",
@@ -20088,7 +20610,10 @@
         "published_at": "2023-03-09T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.462057299999998,
+    "lng": 120.24253089999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "美味火鶏肉飯",
@@ -20105,7 +20630,10 @@
         "published_at": "2023-03-09T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0658493,
+    "lng": 121.54064600000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "荘家火鶏肉飯",
@@ -20122,7 +20650,10 @@
         "published_at": "2023-03-09T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1509874,
+    "lng": 120.66180980000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿霞火雞肉飯",
@@ -20139,7 +20670,10 @@
         "published_at": "2023-03-09T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.4827247,
+    "lng": 120.44887399999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "首相大飯店",
@@ -20156,7 +20690,10 @@
         "published_at": "2023-03-06T11:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.998705299999997,
+    "lng": 120.2076274,
+    "geocode_precision": "google-name"
   },
   {
     "name": "邱家小巻米粉",
@@ -20173,7 +20710,10 @@
         "published_at": "2023-03-06T11:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9992354,
+    "lng": 120.19958499999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "小公園擔仔麵",
@@ -20190,7 +20730,10 @@
         "published_at": "2023-03-06T11:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.997164899999998,
+    "lng": 120.1996052,
+    "geocode_precision": "google-name"
   },
   {
     "name": "八寶冰圓仔惠",
@@ -20207,7 +20750,10 @@
         "published_at": "2023-03-06T11:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.990452599999998,
+    "lng": 120.19667770000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "江川肉燥飯",
@@ -20224,7 +20770,10 @@
         "published_at": "2023-03-06T11:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.997624599999998,
+    "lng": 120.19918829999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "会饗牛肉湯",
@@ -20241,7 +20790,10 @@
         "published_at": "2023-03-06T11:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9990153,
+    "lng": 120.2115419,
+    "geocode_precision": "google-name"
   },
   {
     "name": "手工魚餃麵 沙茶麵",
@@ -20258,7 +20810,10 @@
         "published_at": "2023-03-06T11:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.001061999999997,
+    "lng": 120.20819300000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "正忠排骨飯成功店",
@@ -20275,7 +20830,10 @@
         "published_at": "2023-03-06T11:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.998327,
+    "lng": 120.20496320000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "台南土城新厝土魠魚羹",
@@ -20292,7 +20850,10 @@
         "published_at": "2023-03-03T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.061164599999998,
+    "lng": 120.13364409999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿明豬心冬粉",
@@ -20309,7 +20870,10 @@
         "published_at": "2023-03-03T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9904542,
+    "lng": 120.19613779999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "台南開元路虱目魚",
@@ -20326,7 +20890,10 @@
         "published_at": "2023-03-03T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.0082347,
+    "lng": 120.22157179999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "一味品碗粿",
@@ -20343,7 +20910,10 @@
         "published_at": "2023-03-03T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.997551299999998,
+    "lng": 120.19889880000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "落成米糕",
@@ -20360,7 +20930,10 @@
         "published_at": "2023-03-03T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9959727,
+    "lng": 120.2046874,
+    "geocode_precision": "google-name"
   },
   {
     "name": "添厚",
@@ -20377,7 +20950,10 @@
         "published_at": "2023-03-03T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9969473,
+    "lng": 120.2004723,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Louisa Coffee 路易．莎咖啡(澎湖馬公店)",
@@ -20426,7 +21002,10 @@
         "published_at": "2023-02-27T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.568407,
+    "lng": 119.56712069999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿民刈包（文康七號）",
@@ -20443,7 +21022,10 @@
         "published_at": "2023-02-27T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.567741899999998,
+    "lng": 119.56691099999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Dynasty Hotel Tainan",
@@ -20460,7 +21042,10 @@
         "published_at": "2023-02-27T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9979343,
+    "lng": 120.2112045,
+    "geocode_precision": "google-name"
   },
   {
     "name": "修安扁担豆花",
@@ -20483,7 +21068,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9971844,
+    "lng": 120.1987348,
+    "geocode_precision": "google-name"
   },
   {
     "name": "永樂燒肉飯",
@@ -20526,7 +21114,10 @@
         "published_at": "2023-02-27T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.002772999999998,
+    "lng": 120.20185359999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "福泰飯桌 第三代",
@@ -20575,7 +21166,10 @@
         "published_at": "2023-02-27T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.997281299999997,
+    "lng": 120.19877439999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "首相大飯店 Premier Hotel",
@@ -20592,7 +21186,10 @@
         "published_at": "2023-02-27T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.998705299999997,
+    "lng": 120.2076274,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Addict restaurant癮餐庁",
@@ -20629,7 +21226,10 @@
         "published_at": "2023-02-24T11:00:33Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.566450399999997,
+    "lng": 119.56918399999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "小隠鍋 澎湖民生店",
@@ -20652,7 +21252,10 @@
         "published_at": "2023-02-21T11:00:38Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5675974,
+    "lng": 119.5670493,
+    "geocode_precision": "google-name"
   },
   {
     "name": "福牡蠣屋",
@@ -20669,7 +21272,10 @@
         "published_at": "2023-02-24T11:00:33Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.567119899999998,
+    "lng": 119.5645509,
+    "geocode_precision": "google-name"
   },
   {
     "name": "京華牛肉麺",
@@ -20686,7 +21292,10 @@
         "published_at": "2023-02-21T11:00:38Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1702913,
+    "lng": 121.4471101,
+    "geocode_precision": "google-name"
   },
   {
     "name": "馬路益燒肉",
@@ -20703,7 +21312,10 @@
         "published_at": "2023-02-21T11:00:38Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.566065400000003,
+    "lng": 119.566436,
+    "geocode_precision": "google-name"
   },
   {
     "name": "四川席抄手",
@@ -20720,7 +21332,10 @@
         "published_at": "2023-02-21T11:00:38Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5769222,
+    "lng": 119.57348219999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金日発炒飯専売店",
@@ -20737,7 +21352,10 @@
         "published_at": "2023-02-21T11:00:38Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.566547,
+    "lng": 119.5684546,
+    "geocode_precision": "google-name"
   },
   {
     "name": "豐谷大飯店",
@@ -20754,7 +21372,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.563809199999998,
+    "lng": 119.56754839999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Louisa Coffee 路易．莎咖啡",
@@ -20790,7 +21411,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.568153799999997,
+    "lng": 119.5670277,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老街尚夯烤甜圏",
@@ -20807,7 +21431,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5668255,
+    "lng": 119.56705059999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "中央老街",
@@ -20824,7 +21451,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5647548,
+    "lng": 119.5648526,
+    "geocode_precision": "google-name"
   },
   {
     "name": "篤行十村",
@@ -20841,7 +21471,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.563854199999998,
+    "lng": 119.5609494,
+    "geocode_precision": "google-name"
   },
   {
     "name": "澎湖観音亭",
@@ -20858,7 +21491,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.567591999999998,
+    "lng": 119.56206499999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "納豆手作大餛飩",
@@ -20875,7 +21511,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5662926,
+    "lng": 119.5678439,
+    "geocode_precision": "google-name"
   },
   {
     "name": "讃哥焼肉飯/面攤",
@@ -20892,7 +21531,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.566096599999998,
+    "lng": 119.5663309,
+    "geocode_precision": "google-name"
   },
   {
     "name": "蛋黄麺",
@@ -20909,7 +21551,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.5757554,
+    "lng": 120.8516753,
+    "geocode_precision": "google-name"
   },
   {
     "name": "禾豊小舗",
@@ -20926,7 +21571,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5719422,
+    "lng": 119.570651,
+    "geocode_precision": "google-name"
   },
   {
     "name": "526食堂",
@@ -20943,7 +21591,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.567222299999997,
+    "lng": 119.5683221,
+    "geocode_precision": "google-name"
   },
   {
     "name": "澎湖美食毛毛的店",
@@ -20960,7 +21611,10 @@
         "published_at": "2023-02-18T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5667094,
+    "lng": 119.56643769999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "慢板咖啡",
@@ -20977,7 +21631,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.350301100000003,
+    "lng": 120.38276339999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "華僑魚市場",
@@ -21000,7 +21657,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.468089,
+    "lng": 120.44332000000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "華僑市場 魚荘生魚片 握寿司 丼飯 専門店",
@@ -21017,7 +21677,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.468249399999998,
+    "lng": 120.44347769999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "屏東観光夜市",
@@ -21034,7 +21697,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.669887799999998,
+    "lng": 120.48987240000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "林記美食餐館",
@@ -21051,7 +21717,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6696112,
+    "lng": 120.49049959999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老周燒肉飯-屏東民族店",
@@ -21068,7 +21737,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6699549,
+    "lng": 120.4896937,
+    "geocode_precision": "google-name"
   },
   {
     "name": "咖啡覚醒",
@@ -21085,7 +21757,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.653565,
+    "lng": 120.2856954,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿婆炒粿仔",
@@ -21102,7 +21777,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.548667299999998,
+    "lng": 120.53971700000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "糧田集市",
@@ -21119,7 +21797,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.5376191,
+    "lng": 120.54373760000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "STARBUCKS Xiaogang Hongping Shop",
@@ -21136,7 +21817,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.5700847,
+    "lng": 120.3564429,
+    "geocode_precision": "google-name"
   },
   {
     "name": "炙東津生魚片丼飯寿司",
@@ -21153,7 +21837,10 @@
         "published_at": "2023-02-15T11:00:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.5672304,
+    "lng": 120.35698509999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "華僑市場 魚荘生魚片 握寿司 丼飯 専門店（212）",
@@ -21170,7 +21857,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.468249399999998,
+    "lng": 120.44347769999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "貓吉大人",
@@ -21187,7 +21877,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.3513672,
+    "lng": 120.38391340000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "慢板咖啡 manban cafe",
@@ -21204,7 +21897,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.350301100000003,
+    "lng": 120.38276339999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "旺来在地食堂",
@@ -21221,7 +21917,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.350582799999998,
+    "lng": 120.38485000000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Yoyo起司捲",
@@ -21238,7 +21937,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.3497682,
+    "lng": 120.38591439999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "巫里小餐館WULI",
@@ -21255,7 +21957,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.3515868,
+    "lng": 120.38157009999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "洪媽媽早餐店",
@@ -21272,7 +21977,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.3353315,
+    "lng": 120.3714701,
+    "geocode_precision": "google-name"
   },
   {
     "name": "大富小吃",
@@ -21289,7 +21997,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.3505249,
+    "lng": 120.37975440000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "梨小籠",
@@ -21306,7 +22017,10 @@
         "published_at": "2023-02-12T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.3422667,
+    "lng": 120.3726533,
+    "geocode_precision": "google-name"
   },
   {
     "name": "統一スターバックス 墾丁福華ブランチ",
@@ -21329,7 +22043,10 @@
         "published_at": "2023-02-06T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 21.940275,
+    "lng": 120.80733389999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Goshen Hotel",
@@ -21346,7 +22063,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.637376699999997,
+    "lng": 120.29785989999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "弘記肉燥飯舗",
@@ -21363,7 +22083,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6513234,
+    "lng": 120.28616000000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "正宗鴨肉飯",
@@ -21380,7 +22103,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6646111,
+    "lng": 120.3095426,
+    "geocode_precision": "google-name"
   },
   {
     "name": "松本清 漢神巨蛋店",
@@ -21397,7 +22123,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6698582,
+    "lng": 120.30289200000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "三鳳中街観光商圏",
@@ -21414,7 +22143,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.637378,
+    "lng": 120.2939379,
+    "geocode_precision": "google-name"
   },
   {
     "name": "三民街",
@@ -21431,7 +22163,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0655113,
+    "lng": 121.4822236,
+    "geocode_precision": "google-name"
   },
   {
     "name": "順億鮪魚專賣店-總店",
@@ -21448,7 +22183,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.018528,
+    "lng": 121.4558677,
+    "geocode_precision": "google-name"
   },
   {
     "name": "中華電信",
@@ -21465,7 +22203,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0366736,
+    "lng": 121.52351309999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老店興隆居傳統早點美食",
@@ -21482,7 +22223,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.630377199999998,
+    "lng": 120.2936811,
+    "geocode_precision": "google-name"
   },
   {
     "name": "南豐魯肉飯",
@@ -21499,7 +22243,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6168907,
+    "lng": 120.2983943,
+    "geocode_precision": "google-name"
   },
   {
     "name": "高雄北港蔡筒仔米糕",
@@ -21516,7 +22263,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.631918499999998,
+    "lng": 120.2850047,
+    "geocode_precision": "google-name"
   },
   {
     "name": "上海生煎湯包",
@@ -21533,7 +22283,10 @@
         "published_at": "2023-02-09T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.643704099999997,
+    "lng": 120.3079114,
+    "geocode_precision": "google-name"
   },
   {
     "name": "六合夜市",
@@ -21596,7 +22349,10 @@
         "published_at": "2023-02-06T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 21.925622,
+    "lng": 120.8321998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Little Bay Bar",
@@ -21619,7 +22375,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 21.9416585,
+    "lng": 120.8049798,
+    "geocode_precision": "google-name"
   },
   {
     "name": "大玉食堂1館 - 熱炒100",
@@ -21636,7 +22395,10 @@
         "published_at": "2023-02-06T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 21.944597899999998,
+    "lng": 120.80008339999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "珍珍小吃店",
@@ -21653,7 +22415,10 @@
         "published_at": "2023-02-06T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5256238,
+    "lng": 120.4416538,
+    "geocode_precision": "google-name"
   },
   {
     "name": "文化街紅麴飯",
@@ -21670,7 +22435,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.755751000000004,
+    "lng": 121.15219710000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "多良観光車站",
@@ -21687,7 +22455,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.507519499999997,
+    "lng": 120.95884869999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "林家臭豆腐店",
@@ -21704,7 +22475,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7520596,
+    "lng": 121.1523443,
+    "geocode_precision": "google-name"
   },
   {
     "name": "自在軒",
@@ -21721,7 +22495,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.0184976,
+    "lng": 120.1800073,
+    "geocode_precision": "google-name"
   },
   {
     "name": "大衆滷肉飯",
@@ -21738,7 +22515,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.756385599999998,
+    "lng": 121.1528099,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老東台米台目",
@@ -21755,7 +22535,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7529298,
+    "lng": 121.1534532,
+    "geocode_precision": "google-name"
   },
   {
     "name": "波波自助洗衣",
@@ -21772,7 +22555,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.3346391,
+    "lng": 121.3175998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "丹堤咖啡",
@@ -21795,7 +22581,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.052241,
+    "lng": 121.53041280000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "秒殺水煎包",
@@ -21812,7 +22601,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.752241899999998,
+    "lng": 121.15350219999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "中華早點",
@@ -21829,7 +22621,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.755518199999997,
+    "lng": 121.1545284,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Hai Yuan Bungalow 海園別館",
@@ -21846,7 +22641,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 21.945863799999998,
+    "lng": 120.7964717,
+    "geocode_precision": "google-name"
   },
   {
     "name": "巷子内海鮮熱炒",
@@ -21863,7 +22661,10 @@
         "published_at": "2023-02-03T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 21.945539,
+    "lng": 120.79635549999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "美而美早餐店",
@@ -21880,7 +22681,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.033812899999997,
+    "lng": 121.5264514,
+    "geocode_precision": "google-name"
   },
   {
     "name": "特選海產店",
@@ -21897,7 +22701,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7927185,
+    "lng": 121.1867885,
+    "geocode_precision": "google-name"
   },
   {
     "name": "海島旅人 Diving Hostel",
@@ -21914,7 +22721,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6612513,
+    "lng": 121.47434469999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "朝日温泉",
@@ -21931,7 +22741,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6370465,
+    "lng": 121.50417530000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老闆釣的魚",
@@ -21948,7 +22761,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6656773,
+    "lng": 121.4707158,
+    "geocode_precision": "google-name"
   },
   {
     "name": "巨森早餐吧",
@@ -21965,7 +22781,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.757426,
+    "lng": 121.15153610000002,
+    "geocode_precision": "google-name"
   },
   {
     "name": "林家麵飯小吃",
@@ -21982,7 +22801,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6620421,
+    "lng": 121.4733659,
+    "geocode_precision": "google-name"
   },
   {
     "name": "黄記葱油餅",
@@ -21999,7 +22821,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7491198,
+    "lng": 121.15689160000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "外省麵(正氣路店)",
@@ -22016,7 +22841,10 @@
         "published_at": "2023-01-30T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7517393,
+    "lng": 121.15272979999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "MGH Mitsui Garden Hotel 台北忠孝",
@@ -22033,7 +22861,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0418383,
+    "lng": 121.5343303,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Traveler Hotel Taitun",
@@ -22050,7 +22881,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7531544,
+    "lng": 121.1510266,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿鋐炸鶏",
@@ -22067,7 +22901,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.752164399999998,
+    "lng": 121.15197450000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "台東-老東芳青草茶 - 旗艦店",
@@ -22084,7 +22921,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.752146999999997,
+    "lng": 121.15220670000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "8+2魯肉飯",
@@ -22101,7 +22941,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7524965,
+    "lng": 121.1517687,
+    "geocode_precision": "google-name"
   },
   {
     "name": "大池豆皮店",
@@ -22118,7 +22961,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.1176101,
+    "lng": 121.21397479999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "楽米焼",
@@ -22135,7 +22981,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.1221209,
+    "lng": 121.2152743,
+    "geocode_precision": "google-name"
   },
   {
     "name": "池上弁当文化物語館",
@@ -22152,7 +23001,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.1242563,
+    "lng": 121.2209041,
+    "geocode_precision": "google-name"
   },
   {
     "name": "台東市正気路観光夜市",
@@ -22169,7 +23021,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7551603,
+    "lng": 121.148503,
+    "geocode_precision": "google-name"
   },
   {
     "name": "藍蜻蜓炸雞",
@@ -22186,7 +23041,10 @@
         "published_at": "2023-01-27T11:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.7546544,
+    "lng": 121.15165580000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "天祥明山號餐庁",
@@ -22203,7 +23061,10 @@
         "published_at": "2023-01-24T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.182731,
+    "lng": 121.4942056,
+    "geocode_precision": "google-name"
   },
   {
     "name": "龍宮",
@@ -22220,7 +23081,10 @@
         "published_at": "2023-01-24T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.9237066,
+    "lng": 120.73863179999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "周家蒸餃",
@@ -22237,7 +23101,10 @@
         "published_at": "2023-01-24T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.977103700000004,
+    "lng": 121.6090646,
+    "geocode_precision": "google-name"
   },
   {
     "name": "福洱商行 松江南京店",
@@ -22254,7 +23121,10 @@
         "published_at": "2023-01-24T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0512956,
+    "lng": 121.53429159999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "遠雄海洋公園 Farglory Ocean Park",
@@ -22271,7 +23141,10 @@
         "published_at": "2023-01-21T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.9012596,
+    "lng": 121.6035363,
+    "geocode_precision": "google-name"
   },
   {
     "name": "田村寿司",
@@ -22288,7 +23161,10 @@
         "published_at": "2023-01-21T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.9718566,
+    "lng": 121.5937528,
+    "geocode_precision": "google-name"
   },
   {
     "name": "炸弾葱油餅 黄車",
@@ -22331,7 +23207,10 @@
         "published_at": "2023-01-21T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.982804599999998,
+    "lng": 121.6057335,
+    "geocode_precision": "google-name"
   },
   {
     "name": "曾記手工麻糬-麻吉門市",
@@ -22348,7 +23227,10 @@
         "published_at": "2023-01-21T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.9917221,
+    "lng": 121.6030889,
+    "geocode_precision": "google-name"
   },
   {
     "name": "玉里橋頭臭豆腐花蓮店",
@@ -22365,7 +23247,10 @@
         "published_at": "2023-01-21T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.9678821,
+    "lng": 121.6080214,
+    "geocode_precision": "google-name"
   },
   {
     "name": "液香扁食",
@@ -22382,7 +23267,10 @@
         "published_at": "2023-01-21T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.974622099999998,
+    "lng": 121.6041084,
+    "geocode_precision": "google-name"
   },
   {
     "name": "正常鮮肉小籠包 羅東店",
@@ -22399,7 +23287,10 @@
         "published_at": "2023-01-18T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.6725592,
+    "lng": 121.76988599999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "蘭陽香辣麺",
@@ -22416,7 +23307,10 @@
         "published_at": "2023-01-18T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.680598,
+    "lng": 121.76768500000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "cama café 羅東公正店",
@@ -22433,7 +23327,10 @@
         "published_at": "2023-01-18T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.6785504,
+    "lng": 121.76973480000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "吃香便當",
@@ -22450,7 +23347,10 @@
         "published_at": "2023-01-18T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.677868,
+    "lng": 121.7729284,
+    "geocode_precision": "google-name"
   },
   {
     "name": "星巴克",
@@ -22485,7 +23385,10 @@
         "published_at": "2023-01-03T11:00:17Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0460466,
+    "lng": 121.51791929999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金澤魯肉飯",
@@ -22502,7 +23405,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.7603922,
+    "lng": 121.7524821,
+    "geocode_precision": "google-name"
   },
   {
     "name": "瑞徳童話芸宿",
@@ -22519,7 +23425,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.828179,
+    "lng": 121.77390600000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "湯圍溝溫泉公園",
@@ -22536,7 +23445,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.8285141,
+    "lng": 121.76995579999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "柯氏葱油餅",
@@ -22553,7 +23465,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.821168300000004,
+    "lng": 121.7698167,
+    "geocode_precision": "google-name"
   },
   {
     "name": "礁渓温泉夜市",
@@ -22570,7 +23485,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.8246874,
+    "lng": 121.75926000000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Blue City 藍城焼貨",
@@ -22587,7 +23505,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.828319399999998,
+    "lng": 121.7732838,
+    "geocode_precision": "google-name"
   },
   {
     "name": "安禾嚼旅",
@@ -22604,7 +23525,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.6789205,
+    "lng": 121.7736089,
+    "geocode_precision": "google-name"
   },
   {
     "name": "財記臭豆腐",
@@ -22621,7 +23545,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.6785823,
+    "lng": 121.7709659,
+    "geocode_precision": "google-name"
   },
   {
     "name": "羅東林業文化園区",
@@ -22638,7 +23565,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.681930599999998,
+    "lng": 121.77225070000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿忠平価熱炒",
@@ -22655,7 +23585,10 @@
         "published_at": "2023-01-15T11:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1447257,
+    "lng": 121.4963179,
+    "geocode_precision": "google-name"
   },
   {
     "name": "馬崗石頭屋咖啡美食",
@@ -22672,7 +23605,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0135972,
+    "lng": 122.00222139999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "三貂角灯台",
@@ -22706,7 +23642,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0158858,
+    "lng": 121.94546299999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "福隆車站 郷野便當",
@@ -22723,7 +23662,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0160569,
+    "lng": 121.94463250000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "慕夏精品旅館 Mucha Boutique Hotel",
@@ -22740,7 +23682,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.7568602,
+    "lng": 121.7568507,
+    "geocode_precision": "google-name"
   },
   {
     "name": "正好鮮肉小籠包 (宜蘭總店)",
@@ -22757,7 +23702,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.754359299999997,
+    "lng": 121.74746729999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿娘給的蒜味肉羹",
@@ -22774,7 +23722,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.752220299999998,
+    "lng": 121.73989519999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "原来豆花",
@@ -22791,7 +23742,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.760457199999998,
+    "lng": 121.752115,
+    "geocode_precision": "google-name"
   },
   {
     "name": "宜蘭紅糟魷魚",
@@ -22808,7 +23762,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.7594778,
+    "lng": 121.75287429999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "東門夜市",
@@ -22825,7 +23782,10 @@
         "published_at": "2023-01-12T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.7581411,
+    "lng": 121.7584576,
+    "geocode_precision": "google-name"
   },
   {
     "name": "九份高媽媽民宿",
@@ -22842,7 +23802,10 @@
         "published_at": "2023-01-09T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1098538,
+    "lng": 121.8456181,
+    "geocode_precision": "google-name"
   },
   {
     "name": "米詩堤甜点王国九份門市",
@@ -22859,7 +23822,10 @@
         "published_at": "2023-01-09T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1091384,
+    "lng": 121.8456183,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿蘭草仔粿",
@@ -22908,7 +23874,10 @@
         "published_at": "2023-01-09T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1076525,
+    "lng": 121.84365210000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "芋仔蕃薯",
@@ -22925,7 +23894,10 @@
         "published_at": "2023-01-09T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1089219,
+    "lng": 121.8436315,
+    "geocode_precision": "google-name"
   },
   {
     "name": "四川麻辣火鍋",
@@ -22942,7 +23914,10 @@
         "published_at": "2023-01-06T11:00:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.052274,
+    "lng": 121.52943559999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "北海坑道",
@@ -23118,9 +24093,7 @@
         "published_at": "2022-12-27T11:00:00Z"
       }
     ],
-    "lat": 24.4480637,
-    "lng": 118.3856331,
-    "needs_manual_check": false
+    "needs_manual_check": true
   },
   {
     "name": "金門県金湖鎮公所公有零售市場",
@@ -23137,10 +24110,7 @@
         "published_at": "2022-12-30T11:00:07Z"
       }
     ],
-    "needs_manual_check": false,
-    "lat": 24.4415662,
-    "lng": 118.4138155,
-    "geocode_precision": "approximate"
+    "needs_manual_check": true
   },
   {
     "name": "胡記煎餅果子",
@@ -23242,7 +24212,10 @@
         "published_at": "2022-12-30T11:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.6258908,
+    "lng": 120.29523119999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "五哥牛肉麺",
@@ -23310,10 +24283,7 @@
         "published_at": "2022-12-27T11:00:00Z"
       }
     ],
-    "needs_manual_check": false,
-    "lat": 24.4333054,
-    "lng": 118.3163899,
-    "geocode_precision": "approximate"
+    "needs_manual_check": true
   },
   {
     "name": "小島商号",
@@ -23330,10 +24300,7 @@
         "published_at": "2022-12-27T11:00:00Z"
       }
     ],
-    "needs_manual_check": false,
-    "lat": 24.4528434,
-    "lng": 118.4542849,
-    "geocode_precision": "exact"
+    "needs_manual_check": true
   },
   {
     "name": "巧味香",
@@ -23350,9 +24317,7 @@
         "published_at": "2022-12-27T11:00:00Z"
       }
     ],
-    "lat": 24.4480637,
-    "lng": 118.3856331,
-    "needs_manual_check": false
+    "needs_manual_check": true
   },
   {
     "name": "金門 阿公ㄟ手工豆花",
@@ -23369,9 +24334,7 @@
         "published_at": "2022-12-27T11:00:00Z"
       }
     ],
-    "lat": 24.4480637,
-    "lng": 118.3856331,
-    "needs_manual_check": false
+    "needs_manual_check": true
   },
   {
     "name": "黑面阿玉鯊魚煙",
@@ -23388,7 +24351,10 @@
         "published_at": "2022-12-24T11:00:20Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.127802799999998,
+    "lng": 121.74177610000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "浯島文旅",
@@ -23473,7 +24439,10 @@
         "published_at": "2022-12-21T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.130282899999997,
+    "lng": 121.75099039999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "星巴克義14門市",
@@ -23496,7 +24465,10 @@
         "published_at": "2022-12-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.131188299999998,
+    "lng": 121.7446136,
+    "geocode_precision": "google-name"
   },
   {
     "name": "基隆阿樂哈大飯店",
@@ -23513,7 +24485,10 @@
         "published_at": "2022-12-21T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1315563,
+    "lng": 121.74543460000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "来来粿仔湯",
@@ -23530,7 +24505,10 @@
         "published_at": "2022-12-21T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1301259,
+    "lng": 121.74795290000002,
+    "geocode_precision": "google-name"
   },
   {
     "name": "周家葱油餅",
@@ -23547,7 +24525,10 @@
         "published_at": "2022-12-21T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.131206499999998,
+    "lng": 121.74571999999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "瑞芳美食街",
@@ -23564,7 +24545,10 @@
         "published_at": "2022-12-21T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.106842099999998,
+    "lng": 121.80568160000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "王記天婦羅",
@@ -23587,7 +24571,10 @@
         "published_at": "2022-12-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.128575299999998,
+    "lng": 121.74300020000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "天一香魯肉飯",
@@ -23604,7 +24591,10 @@
         "published_at": "2022-12-18T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1283219,
+    "lng": 121.74320510000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "水果汁",
@@ -23621,7 +24611,10 @@
         "published_at": "2022-12-18T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0574281,
+    "lng": 121.5176306,
+    "geocode_precision": "google-name"
   },
   {
     "name": "営養三明治",
@@ -23638,7 +24631,10 @@
         "published_at": "2022-12-18T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1292226,
+    "lng": 121.74410839999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "一口吃香腸",
@@ -23655,7 +24651,10 @@
         "published_at": "2022-12-18T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1281969,
+    "lng": 121.7433535,
+    "geocode_precision": "google-name"
   },
   {
     "name": "何佳佳葱油餅",
@@ -23672,7 +24671,10 @@
         "published_at": "2022-12-18T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0127831,
+    "lng": 121.53526079999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "海鮮屋台",
@@ -23689,7 +24691,10 @@
         "published_at": "2022-12-18T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0665399,
+    "lng": 121.53750409999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "三兄弟豆花",
@@ -23706,7 +24711,10 @@
         "published_at": "2022-12-18T11:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1283617,
+    "lng": 121.74368299999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Just Live Inn 享住旅店",
@@ -23723,7 +24731,10 @@
         "published_at": "2022-12-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1299356,
+    "lng": 121.74620320000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "阿華炒麺",
@@ -23740,7 +24751,10 @@
         "published_at": "2022-12-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1279239,
+    "lng": 121.74320660000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "天一香肉羹順",
@@ -23757,7 +24771,10 @@
         "published_at": "2022-12-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1283219,
+    "lng": 121.74320510000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金龍肉焿",
@@ -23774,7 +24791,10 @@
         "published_at": "2022-12-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.137671899999997,
+    "lng": 121.7514358,
+    "geocode_precision": "google-name"
   },
   {
     "name": "鼎泰豐 新生店",
@@ -23791,7 +24811,10 @@
         "published_at": "2022-12-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.033889,
+    "lng": 121.5321338,
+    "geocode_precision": "google-name"
   },
   {
     "name": "精気神養生会館 中山店",
@@ -23808,7 +24831,10 @@
         "published_at": "2022-12-15T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0576326,
+    "lng": 121.5230488,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金山王肉包",
@@ -23825,7 +24851,10 @@
         "published_at": "2022-12-12T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.2218041,
+    "lng": 121.63727689999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金山芋圓王（金山総店）",
@@ -23842,7 +24871,10 @@
         "published_at": "2022-12-12T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.220846599999998,
+    "lng": 121.64122449999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "野柳望海亭海鮮餐庁",
@@ -23859,7 +24891,10 @@
         "published_at": "2022-12-12T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.204052599999997,
+    "lng": 121.69056099999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老地方小吃",
@@ -23876,7 +24911,10 @@
         "published_at": "2022-12-09T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.5988793,
+    "lng": 120.99807940000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金山廟口金包里鴨肉",
@@ -23893,7 +24931,10 @@
         "published_at": "2022-12-09T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.2219698,
+    "lng": 121.6383848,
+    "geocode_precision": "google-name"
   },
   {
     "name": "新建成餅店",
@@ -23910,7 +24951,10 @@
         "published_at": "2022-12-06T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.168888900000002,
+    "lng": 121.44305559999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "黑殿排骨",
@@ -23927,7 +24971,10 @@
         "published_at": "2022-12-06T11:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.177263699999997,
+    "lng": 121.42586,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Aqua Bella Hot Spring Hotel (漾館時尚温泉会館)",
@@ -23944,7 +24991,10 @@
         "published_at": "2022-12-03T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.135222799999998,
+    "lng": 121.50467289999997,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Beitou Market",
@@ -23961,7 +25011,10 @@
         "published_at": "2022-12-03T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1332453,
+    "lng": 121.50244869999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "矮仔財滷肉飯",
@@ -24004,7 +25057,10 @@
         "published_at": "2022-12-03T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1315658,
+    "lng": 121.503834,
+    "geocode_precision": "google-name"
   },
   {
     "name": "地熱谷",
@@ -24021,7 +25077,10 @@
         "published_at": "2022-12-03T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.137894,
+    "lng": 121.5118863,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Louisa Coffee (路易莎咖啡)",
@@ -24038,7 +25097,10 @@
         "published_at": "2022-12-03T11:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0531768,
+    "lng": 121.5189247,
+    "geocode_precision": "google-name"
   },
   {
     "name": "不仔的店",
@@ -24055,7 +25117,10 @@
         "published_at": "2022-11-27T11:00:21Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.972507699999998,
+    "lng": 121.53437029999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "看板のない店",
@@ -24089,7 +25154,10 @@
         "published_at": "2022-11-24T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9680984,
+    "lng": 120.28087179999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "高家荘米台目",
@@ -24106,7 +25174,10 @@
         "published_at": "2022-11-18T11:00:39Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0553301,
+    "lng": 121.5256455,
+    "geocode_precision": "google-name"
   },
   {
     "name": "大媽牛肉麵",
@@ -24123,7 +25194,10 @@
         "published_at": "2022-11-15T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.954532999999998,
+    "lng": 121.356646,
+    "geocode_precision": "google-name"
   },
   {
     "name": "鶯歌陶瓷老街",
@@ -24140,7 +25214,10 @@
         "published_at": "2022-11-15T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.9513726,
+    "lng": 121.35010859999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "北海道Cremia",
@@ -24157,7 +25234,10 @@
         "published_at": "2022-11-15T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0460037,
+    "lng": 121.5172377,
+    "geocode_precision": "google-name"
   },
   {
     "name": "渪洲公有零售市場",
@@ -24174,7 +25254,10 @@
         "published_at": "2022-11-09T11:00:37Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0135193,
+    "lng": 121.51672809999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "手工面疙瘩汕頭意麺",
@@ -24191,7 +25274,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9970227,
+    "lng": 120.198789,
+    "geocode_precision": "google-name"
   },
   {
     "name": "Rainbow Island B&B",
@@ -24214,7 +25300,10 @@
         "published_at": "2022-11-03T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9983066,
+    "lng": 120.2069258,
+    "geocode_precision": "google-name"
   },
   {
     "name": "依蕾特布丁",
@@ -24231,7 +25320,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9981831,
+    "lng": 120.17432860000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "安平老街",
@@ -24248,7 +25340,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.0007174,
+    "lng": 120.1616449,
+    "geocode_precision": "google-name"
   },
   {
     "name": "安平古堡",
@@ -24265,7 +25360,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.001509300000002,
+    "lng": 120.1606244,
+    "geocode_precision": "google-name"
   },
   {
     "name": "武聖夜市",
@@ -24282,7 +25380,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.003458000000002,
+    "lng": 120.19050980000002,
+    "geocode_precision": "google-name"
   },
   {
     "name": "家豪鮮魚湯啤酒屋",
@@ -24299,7 +25400,10 @@
         "published_at": "2022-11-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.999683299999997,
+    "lng": 120.20549600000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老曾羊肉",
@@ -24342,7 +25446,10 @@
         "published_at": "2022-11-03T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1852382,
+    "lng": 120.6446733,
+    "geocode_precision": "google-name"
   },
   {
     "name": "はむ家（哈木家）",
@@ -24359,7 +25466,10 @@
         "published_at": "2022-11-03T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9953736,
+    "lng": 120.2045814,
+    "geocode_precision": "google-name"
   },
   {
     "name": "赤崁樓",
@@ -24376,7 +25486,10 @@
         "published_at": "2022-11-03T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.997477999999997,
+    "lng": 120.2025433,
+    "geocode_precision": "google-name"
   },
   {
     "name": "沃隼醸造 WE Drink Beer Company",
@@ -24393,7 +25506,10 @@
         "published_at": "2022-11-03T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.997859899999998,
+    "lng": 120.19603000000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "神農街",
@@ -24410,7 +25526,10 @@
         "published_at": "2022-11-03T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.9975171,
+    "lng": 120.19649489999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "廸化街古早味蚵嗲",
@@ -24427,7 +25546,10 @@
         "published_at": "2022-10-27T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.055632499999998,
+    "lng": 121.51056,
+    "geocode_precision": "google-name"
   },
   {
     "name": "妙口四神湯.肉包專賣店",
@@ -24444,7 +25566,10 @@
         "published_at": "2022-10-27T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0568201,
+    "lng": 121.5097577,
+    "geocode_precision": "google-name"
   },
   {
     "name": "金桔檸檬汁",
@@ -24461,7 +25586,10 @@
         "published_at": "2022-10-27T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0580768,
+    "lng": 121.50962310000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "幸发亭蜜豆冰",
@@ -24478,7 +25606,10 @@
         "published_at": "2022-10-27T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1593676,
+    "lng": 120.6784655,
+    "geocode_precision": "google-name"
   },
   {
     "name": "廃墟",
@@ -24495,7 +25626,10 @@
         "published_at": "2022-10-24T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 23.5304525,
+    "lng": 120.42660590000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "一合氷品湯円甜品政大店",
@@ -24512,7 +25646,10 @@
         "published_at": "2022-10-24T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.9879338,
+    "lng": 121.57476129999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "小張刀切大滷麺",
@@ -24529,7 +25666,10 @@
         "published_at": "2022-10-21T11:00:10Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.016468399999997,
+    "lng": 121.5166319,
+    "geocode_precision": "google-name"
   },
   {
     "name": "双享油飯",
@@ -24546,7 +25686,10 @@
         "published_at": "2022-10-18T11:00:44Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.051168999999998,
+    "lng": 121.52713299999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "大眾吳師小吃店",
@@ -24563,7 +25706,10 @@
         "published_at": "2022-10-18T11:00:44Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0500406,
+    "lng": 121.52661909999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "33区熱炒生猛海鮮",
@@ -24580,7 +25726,10 @@
         "published_at": "2022-10-18T11:00:44Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0485871,
+    "lng": 121.5273772,
+    "geocode_precision": "google-name"
   },
   {
     "name": "甲林鉄板焼",
@@ -24597,7 +25746,10 @@
         "published_at": "2022-10-12T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0291794,
+    "lng": 121.50627569999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "香酥棒",
@@ -24614,7 +25766,10 @@
         "published_at": "2022-10-12T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.036917199999998,
+    "lng": 121.49593129999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "原汁排骨湯",
@@ -24631,7 +25786,10 @@
         "published_at": "2022-10-12T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0351754,
+    "lng": 121.4978061,
+    "geocode_precision": "google-name"
   },
   {
     "name": "常青餃子館",
@@ -24648,7 +25806,10 @@
         "published_at": "2022-10-09T11:00:10Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0349975,
+    "lng": 121.54745679999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "龍記炒燴",
@@ -24665,7 +25826,10 @@
         "published_at": "2022-10-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.013478199999998,
+    "lng": 121.53494859999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "無名鶏蛋糕",
@@ -24682,7 +25846,10 @@
         "published_at": "2022-10-06T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.010494500000004,
+    "lng": 121.51425829999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "豬肝榮仔",
@@ -24699,7 +25866,10 @@
         "published_at": "2022-09-27T11:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0568274,
+    "lng": 121.51542680000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "劉芋仔蛋黃芋餅",
@@ -24742,7 +25912,10 @@
         "published_at": "2022-09-24T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.052456799999998,
+    "lng": 121.56625319999998,
+    "geocode_precision": "google-name"
   },
   {
     "name": "安师傅氷火菠蘿",
@@ -24759,7 +25932,10 @@
         "published_at": "2022-09-24T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.050739699999998,
+    "lng": 121.5772468,
+    "geocode_precision": "google-name"
   },
   {
     "name": "福利麺包",
@@ -24776,7 +25952,10 @@
         "published_at": "2022-09-18T11:00:17Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.06479,
+    "lng": 121.52251400000002,
+    "geocode_precision": "google-name"
   },
   {
     "name": "榕樹下",
@@ -24793,7 +25972,10 @@
         "published_at": "2022-09-15T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0279788,
+    "lng": 121.5630109,
+    "geocode_precision": "google-name"
   },
   {
     "name": "豆之味豆腐坊",
@@ -24810,7 +25992,10 @@
         "published_at": "2022-09-15T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0835013,
+    "lng": 121.5575157,
+    "geocode_precision": "google-name"
   },
   {
     "name": "古早味三代肉粥",
@@ -24827,7 +26012,10 @@
         "published_at": "2022-09-09T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.140273099999998,
+    "lng": 120.6847447,
+    "geocode_precision": "google-name"
   },
   {
     "name": "宮原眼科",
@@ -24844,7 +26032,10 @@
         "published_at": "2022-09-09T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1378278,
+    "lng": 120.6835552,
+    "geocode_precision": "google-name"
   },
   {
     "name": "葉小籠包",
@@ -24861,7 +26052,10 @@
         "published_at": "2022-09-09T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.178270299999998,
+    "lng": 120.6660099,
+    "geocode_precision": "google-name"
   },
   {
     "name": "法芙妮 烘焙甜点",
@@ -24878,7 +26072,10 @@
         "published_at": "2022-09-09T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1506965,
+    "lng": 120.6643664,
+    "geocode_precision": "google-name"
   },
   {
     "name": "老頼紅茶",
@@ -24895,7 +26092,10 @@
         "published_at": "2022-09-06T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1421165,
+    "lng": 120.67902389999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "三鮮湯包",
@@ -24912,7 +26112,10 @@
         "published_at": "2022-09-06T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1590687,
+    "lng": 120.6725221,
+    "geocode_precision": "google-name"
   },
   {
     "name": "李海滷肉飯",
@@ -24929,7 +26132,10 @@
         "published_at": "2022-09-06T11:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.1426549,
+    "lng": 120.6788004,
+    "geocode_precision": "google-name"
   },
   {
     "name": "弘爺漢堡",
@@ -24946,7 +26152,10 @@
         "published_at": "2022-09-03T11:00:34Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0870937,
+    "lng": 121.51966230000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "東引小吃店",
@@ -24963,7 +26172,10 @@
         "published_at": "2022-08-25T11:00:06Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0525099,
+    "lng": 121.5658905,
+    "geocode_precision": "google-name"
   },
   {
     "name": "佳徳鳳梨酥",
@@ -25006,7 +26218,10 @@
         "published_at": "2022-08-23T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.965975999999998,
+    "lng": 121.540545,
+    "geocode_precision": "google-name"
   },
   {
     "name": "香帥蛋糕",
@@ -25023,7 +26238,10 @@
         "published_at": "2022-08-23T11:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0463956,
+    "lng": 121.5176412,
+    "geocode_precision": "google-name"
   },
   {
     "name": "津津豆漿",
@@ -25066,7 +26284,10 @@
         "published_at": "2022-08-18T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.062654499999997,
+    "lng": 121.4954937,
+    "geocode_precision": "google-name"
   },
   {
     "name": "趙平米苔目",
@@ -25083,7 +26304,10 @@
         "published_at": "2022-08-18T11:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.064434000000002,
+    "lng": 121.49910910000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "家鄉美食",
@@ -25100,7 +26324,10 @@
         "published_at": "2022-08-16T11:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.059884600000004,
+    "lng": 121.5220188,
+    "geocode_precision": "google-name"
   },
   {
     "name": "就是麺",
@@ -25134,7 +26361,10 @@
         "published_at": "2022-08-11T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0577242,
+    "lng": 121.519099,
+    "geocode_precision": "google-name"
   },
   {
     "name": "創盛號 大同雙連門市",
@@ -25151,7 +26381,10 @@
         "published_at": "2022-08-11T11:00:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.057727699999997,
+    "lng": 121.52032500000001,
+    "geocode_precision": "google-name"
   },
   {
     "name": "無敵水餃",
@@ -25228,7 +26461,10 @@
         "published_at": "2022-08-04T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.05792,
+    "lng": 121.52483,
+    "geocode_precision": "google-name"
   },
   {
     "name": "雙連高記手工水餃",
@@ -25245,7 +26481,10 @@
         "published_at": "2022-08-04T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0578953,
+    "lng": 121.52148969999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "八珍小吃",
@@ -25594,7 +26833,10 @@
         "published_at": "2022-07-07T11:00:17Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0561415,
+    "lng": 121.5262448,
+    "geocode_precision": "google-address"
   },
   {
     "name": "三福茶行",
@@ -25909,7 +27151,10 @@
         "published_at": "2022-06-28T11:00:22Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1083297,
+    "lng": 121.8432372,
+    "geocode_precision": "google-name"
   },
   {
     "name": "鱼丸伯仔",
@@ -25926,7 +27171,10 @@
         "published_at": "2022-06-28T11:00:22Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.129167,
+    "lng": 121.7423517,
+    "geocode_precision": "google-name"
   },
   {
     "name": "九份海论",
@@ -26083,7 +27331,10 @@
         "published_at": "2022-06-21T11:00:22Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0395083,
+    "lng": 121.5070501,
+    "geocode_precision": "google-address"
   },
   {
     "name": "三水街市場",
@@ -26140,7 +27391,10 @@
         "published_at": "2022-06-16T11:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0616326,
+    "lng": 121.5317025,
+    "geocode_precision": "google-address"
   },
   {
     "name": "fruitos 森果治",
@@ -26591,7 +27845,10 @@
         "published_at": "2022-05-19T11:00:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0383578,
+    "lng": 121.4984962,
+    "geocode_precision": "google-address"
   },
   {
     "name": "市多利軟糸羹麺",
@@ -26628,7 +27885,10 @@
         "published_at": "2022-05-19T11:00:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0392117,
+    "lng": 121.4986016,
+    "geocode_precision": "google-address"
   },
   {
     "name": "廣州街夜市/香酥棒",
@@ -26705,7 +27965,10 @@
         "published_at": "2022-05-12T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0291811,
+    "lng": 121.5059244,
+    "geocode_precision": "google-address"
   },
   {
     "name": "魏家豆花",
@@ -26722,7 +27985,10 @@
         "published_at": "2022-05-12T11:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0291811,
+    "lng": 121.5059244,
+    "geocode_precision": "google-address"
   },
   {
     "name": "阿伯蛋包麵",
@@ -26819,7 +28085,10 @@
         "published_at": "2022-05-07T11:00:23Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 24.858975,
+    "lng": 121.822555,
+    "geocode_precision": "google-address"
   },
   {
     "name": "阿宗芋冰城",
@@ -26942,7 +28211,10 @@
         "published_at": "2022-04-26T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0646877,
+    "lng": 121.5241429,
+    "geocode_precision": "google-name"
   },
   {
     "name": "雙城美食餛飩麺",
@@ -27079,7 +28351,10 @@
         "published_at": "2022-04-19T11:00:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0670303,
+    "lng": 121.5262724,
+    "geocode_precision": "google-address"
   },
   {
     "name": "脆皮鮮奶甜甜圈 晴光店",
@@ -27296,7 +28571,10 @@
         "published_at": "2022-04-02T11:00:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0098413,
+    "lng": 121.3015688,
+    "geocode_precision": "approximate"
   },
   {
     "name": "永楽米苔目",
@@ -27413,7 +28691,10 @@
         "published_at": "2022-03-19T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0589875,
+    "lng": 121.5255156,
+    "geocode_precision": "google-address"
   },
   {
     "name": "飯、麺屋台",
@@ -27430,7 +28711,10 @@
         "published_at": "2022-03-19T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0792018,
+    "lng": 121.5427093,
+    "geocode_precision": "google-address"
   },
   {
     "name": "イカのとろみスープ屋台",
@@ -27447,7 +28731,10 @@
         "published_at": "2022-03-19T11:00:09Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0554375,
+    "lng": 121.5254219,
+    "geocode_precision": "google-address"
   },
   {
     "name": "雙城美食街28號",
@@ -27750,7 +29037,10 @@
         "published_at": "2022-03-03T11:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0269124,
+    "lng": 121.4257319,
+    "geocode_precision": "google-address"
   },
   {
     "name": "珍好鍋貼",
@@ -28107,7 +29397,10 @@
         "published_at": "2022-01-22T11:00:33Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0665329,
+    "lng": 121.5160071,
+    "geocode_precision": "google-address"
   },
   {
     "name": "小林麺食館",
@@ -28404,7 +29697,10 @@
         "published_at": "2021-12-30T11:00:18Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0583061,
+    "lng": 121.4966414,
+    "geocode_precision": "google-address"
   },
   {
     "name": "大川本舗現烤蛋糕",
@@ -28501,7 +29797,10 @@
         "published_at": "2021-12-21T11:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0595373,
+    "lng": 121.4886617,
+    "geocode_precision": "google-address"
   },
   {
     "name": "今大魯肉飯",
@@ -28858,7 +30157,10 @@
         "published_at": "2021-11-04T11:00:04Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0405601,
+    "lng": 121.5471696,
+    "geocode_precision": "google-address"
   },
   {
     "name": "中壢觀光夜市",
@@ -29335,7 +30637,10 @@
         "published_at": "2021-08-30T10:00:31Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1120052,
+    "lng": 121.5102914,
+    "geocode_precision": "google-address"
   },
   {
     "name": "氷讃",
@@ -29512,7 +30817,10 @@
         "published_at": "2021-08-10T10:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1187161,
+    "lng": 121.7451927,
+    "geocode_precision": "google-address"
   },
   {
     "name": "明山牛肉麵",
@@ -29669,7 +30977,10 @@
         "published_at": "2021-07-21T10:00:20Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0474428,
+    "lng": 121.5170955,
+    "geocode_precision": "google-address"
   },
   {
     "name": "崎陽軒",
@@ -29686,7 +30997,10 @@
         "published_at": "2021-07-21T10:00:20Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0474428,
+    "lng": 121.5170955,
+    "geocode_precision": "google-address"
   },
   {
     "name": "老山東牛肉麵",
@@ -29861,7 +31175,10 @@
         "published_at": "2020-11-21T10:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0287952,
+    "lng": 121.4612073,
+    "geocode_precision": "google-address"
   },
   {
     "name": "好公道金雞園",
@@ -29978,7 +31295,10 @@
         "published_at": "2021-07-07T10:00:33Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0599289,
+    "lng": 121.5267948,
+    "geocode_precision": "google-address"
   },
   {
     "name": "小王煮瓜",
@@ -30653,7 +31973,10 @@
         "published_at": "2021-04-29T12:29:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 22.642977200000004,
+    "lng": 120.29715069999999,
+    "geocode_precision": "google-name"
   },
   {
     "name": "家樂福超市",
@@ -30881,7 +32204,10 @@
         "published_at": "2021-04-17T10:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1068421,
+    "lng": 121.8056816,
+    "geocode_precision": "google-address"
   },
   {
     "name": "冠鼎鶏肉飯",
@@ -31078,7 +32404,10 @@
         "published_at": "2021-04-01T10:00:20Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.005718899999998,
+    "lng": 121.4555556,
+    "geocode_precision": "google-name"
   },
   {
     "name": "冠天下-南京館",
@@ -31127,7 +32456,10 @@
         "published_at": "2021-03-31T10:00:31Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0534372,
+    "lng": 121.5336268,
+    "geocode_precision": "google-address"
   },
   {
     "name": "晴光意麺",
@@ -31204,7 +32536,10 @@
         "published_at": "2021-03-23T10:00:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0566808,
+    "lng": 121.5153641,
+    "geocode_precision": "google-address"
   },
   {
     "name": "同安街麺線羹",
@@ -31241,7 +32576,10 @@
         "published_at": "2021-03-19T10:00:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0525685,
+    "lng": 121.555211,
+    "geocode_precision": "google-address"
   },
   {
     "name": "鑫耀鑫小吃部",
@@ -31478,7 +32816,10 @@
         "published_at": "2021-02-16T10:00:17Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1119375,
+    "lng": 121.5103125,
+    "geocode_precision": "google-address"
   },
   {
     "name": "梅満美食",
@@ -31535,7 +32876,10 @@
         "published_at": "2021-02-11T10:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0481562,
+    "lng": 121.5647494,
+    "geocode_precision": "google-address"
   },
   {
     "name": "雙連街魯肉飯",
@@ -31572,7 +32916,10 @@
         "published_at": "2021-02-05T10:00:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.052138,
+    "lng": 121.5549824,
+    "geocode_precision": "google-address"
   },
   {
     "name": "牛店精燉牛肉麵",
@@ -31781,7 +33128,10 @@
         "published_at": "2021-01-23T10:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.050962,
+    "lng": 121.514651,
+    "geocode_precision": "google-address"
   },
   {
     "name": "金華麺店",
@@ -31982,7 +33332,10 @@
         "published_at": "2021-01-07T10:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0578409,
+    "lng": 121.5624928,
+    "geocode_precision": "google-address"
   },
   {
     "name": "Due Italian",
@@ -32148,7 +33501,10 @@
         "published_at": "2020-09-05T10:01:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0578993,
+    "lng": 121.5203573,
+    "geocode_precision": "google-address"
   },
   {
     "name": "鐘予原味当帰鴨",
@@ -32185,7 +33541,10 @@
         "published_at": "2020-12-30T10:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0604677,
+    "lng": 121.5476597,
+    "geocode_precision": "google-address"
   },
   {
     "name": "高記生炒魷魚",
@@ -32202,7 +33561,10 @@
         "published_at": "2020-12-28T10:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0103405,
+    "lng": 121.4574039,
+    "geocode_precision": "google-address"
   },
   {
     "name": "味家魯肉飯",
@@ -32298,7 +33660,10 @@
         "published_at": "2020-12-20T10:00:07Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0591322,
+    "lng": 121.5217014,
+    "geocode_precision": "google-address"
   },
   {
     "name": "老王紅焼牛肉麺",
@@ -32487,7 +33852,10 @@
         "published_at": "2020-12-11T10:00:19Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0595255,
+    "lng": 121.4942923,
+    "geocode_precision": "google-address"
   },
   {
     "name": "大来小館",
@@ -32684,7 +34052,10 @@
         "published_at": "2020-11-30T10:00:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0524634,
+    "lng": 121.5614698,
+    "geocode_precision": "google-address"
   },
   {
     "name": "這一鍋 Top One Pot",
@@ -32781,7 +34152,10 @@
         "published_at": "2020-11-24T10:00:11Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0350195,
+    "lng": 121.4984981,
+    "geocode_precision": "google-address"
   },
   {
     "name": "皇池溫泉御膳館",
@@ -32798,7 +34172,10 @@
         "published_at": "2020-11-23T10:00:05Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1398518,
+    "lng": 121.5304847,
+    "geocode_precision": "google-address"
   },
   {
     "name": "梅満美食",
@@ -32815,7 +34192,10 @@
         "published_at": "2020-11-22T10:00:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0722792,
+    "lng": 121.5173193,
+    "geocode_precision": "google-address"
   },
   {
     "name": "黔園川菜餐廳",
@@ -32832,7 +34212,10 @@
         "published_at": "2020-11-20T10:00:24Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0437087,
+    "lng": 121.5046215,
+    "geocode_precision": "google-address"
   },
   {
     "name": "顔記蚵仔麺線",
@@ -32895,7 +34278,10 @@
         "published_at": "2020-11-17T10:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0213666,
+    "lng": 121.5269088,
+    "geocode_precision": "google-address"
   },
   {
     "name": "大龍峒炸蛋餅",
@@ -32912,7 +34298,10 @@
         "published_at": "2020-11-16T10:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0691524,
+    "lng": 121.5137324,
+    "geocode_precision": "approximate"
   },
   {
     "name": "九彬A-HOME民宿",
@@ -32935,7 +34324,10 @@
         "published_at": "2020-11-14T10:00:08Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1071796,
+    "lng": 121.8440214,
+    "geocode_precision": "google-address"
   },
   {
     "name": "阿柑姨芋円",
@@ -33201,7 +34593,10 @@
         "published_at": "2020-11-08T10:00:10Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0602394,
+    "lng": 121.5121195,
+    "geocode_precision": "google-address"
   },
   {
     "name": "小虹水餃小湯包",
@@ -33338,7 +34733,10 @@
         "published_at": "2020-11-03T10:00:02Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0150069,
+    "lng": 121.5351165,
+    "geocode_precision": "google-address"
   },
   {
     "name": "半熟堂",
@@ -33375,7 +34773,10 @@
         "published_at": "2020-11-01T10:00:26Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0580605,
+    "lng": 121.5622949,
+    "geocode_precision": "google-address"
   },
   {
     "name": "川味老張牛肉麺店",
@@ -33667,7 +35068,10 @@
         "published_at": "2020-10-18T10:00:43Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0057694,
+    "lng": 121.4539421,
+    "geocode_precision": "google-address"
   },
   {
     "name": "佳味排骨麺",
@@ -33884,7 +35288,10 @@
         "published_at": "2020-10-04T10:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.051205,
+    "lng": 121.5204407,
+    "geocode_precision": "google-address"
   },
   {
     "name": "新丼",
@@ -33981,7 +35388,10 @@
         "published_at": "2020-09-28T10:00:28Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.069649,
+    "lng": 121.5196575,
+    "geocode_precision": "google-address"
   },
   {
     "name": "老宋記真善美牛肉麺",
@@ -34238,7 +35648,10 @@
         "published_at": "2020-09-11T10:00:28Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.051029,
+    "lng": 121.5204127,
+    "geocode_precision": "google-address"
   },
   {
     "name": "後駅鵝肉店",
@@ -34255,7 +35668,10 @@
         "published_at": "2020-09-10T10:00:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0505782,
+    "lng": 121.5145572,
+    "geocode_precision": "google-address"
   },
   {
     "name": "瑞記海南鶏飯",
@@ -34372,7 +35788,10 @@
         "published_at": "2020-09-02T10:00:44Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0397237,
+    "lng": 121.5230043,
+    "geocode_precision": "google-address"
   },
   {
     "name": "濃気屋",
@@ -34429,7 +35848,10 @@
         "published_at": "2020-08-30T10:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0478343,
+    "lng": 121.540769,
+    "geocode_precision": "google-address"
   },
   {
     "name": "忠南飯館",
@@ -34466,7 +35888,10 @@
         "published_at": "2020-08-28T10:00:51Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0519529,
+    "lng": 121.5606984,
+    "geocode_precision": "google-address"
   },
   {
     "name": "恵比寿カレー",
@@ -34503,7 +35928,10 @@
         "published_at": "2020-08-24T10:00:27Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.055796,
+    "lng": 121.524872,
+    "geocode_precision": "google-address"
   },
   {
     "name": "鰻味屋",
@@ -34520,7 +35948,10 @@
         "published_at": "2020-08-23T10:01:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0575812,
+    "lng": 121.5249821,
+    "geocode_precision": "google-address"
   },
   {
     "name": "鷹流東京豚骨拉麵-極匠",
@@ -34597,7 +36028,10 @@
         "published_at": "2020-08-19T10:00:28Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0529461,
+    "lng": 121.5608402,
+    "geocode_precision": "google-address"
   },
   {
     "name": "紗汀娜好食",
@@ -34634,7 +36068,10 @@
         "published_at": "2020-08-17T10:00:33Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.038132,
+    "lng": 121.4982639,
+    "geocode_precision": "google-address"
   },
   {
     "name": "東門餃子館",
@@ -34651,7 +36088,10 @@
         "published_at": "2020-08-16T10:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0328506,
+    "lng": 121.5287807,
+    "geocode_precision": "google-address"
   },
   {
     "name": "直火人 直火焼肉丼飯屋",
@@ -34794,7 +36234,10 @@
         "published_at": "2020-05-27T10:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.044524,
+    "lng": 121.5126185,
+    "geocode_precision": "google-address"
   },
   {
     "name": "御村日本広島焼",
@@ -34891,7 +36334,10 @@
         "published_at": "2020-08-04T10:01:17Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0590559,
+    "lng": 121.5316375,
+    "geocode_precision": "google-address"
   },
   {
     "name": "獅子甜点",
@@ -34908,7 +36354,10 @@
         "published_at": "2020-08-03T10:01:12Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0612886,
+    "lng": 121.5241602,
+    "geocode_precision": "google-address"
   },
   {
     "name": "創作ラーメン悠然",
@@ -34965,7 +36414,10 @@
         "published_at": "2020-07-30T10:01:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0610689,
+    "lng": 121.5209318,
+    "geocode_precision": "google-address"
   },
   {
     "name": "瞞著爹丼飯店",
@@ -34982,7 +36434,10 @@
         "published_at": "2020-07-29T10:00:37Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0464762,
+    "lng": 121.5453959,
+    "geocode_precision": "google-address"
   },
   {
     "name": "西門金鋒魯肉飯",
@@ -35019,7 +36474,10 @@
         "published_at": "2020-07-27T10:00:40Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0437905,
+    "lng": 121.5493119,
+    "geocode_precision": "google-address"
   },
   {
     "name": "0870澳洲漢堡餐酒館",
@@ -35096,7 +36554,10 @@
         "published_at": "2020-07-23T10:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0465974,
+    "lng": 121.5465516,
+    "geocode_precision": "google-address"
   },
   {
     "name": "銀座あんず和心とんかつ",
@@ -35153,7 +36614,10 @@
         "published_at": "2020-07-20T10:00:47Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0737524,
+    "lng": 121.5174527,
+    "geocode_precision": "google-address"
   },
   {
     "name": "不頼皮 義式窯烤披薩",
@@ -35210,7 +36674,10 @@
         "published_at": "2020-07-16T10:02:13Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0445456,
+    "lng": 121.5127772,
+    "geocode_precision": "google-address"
   },
   {
     "name": "杭州小篭湯包",
@@ -35287,7 +36754,10 @@
         "published_at": "2020-07-12T10:00:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0421407,
+    "lng": 121.5198716,
+    "geocode_precision": "google-address"
   },
   {
     "name": "弥生軒",
@@ -35324,7 +36794,10 @@
         "published_at": "2020-07-09T10:00:45Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.054611,
+    "lng": 121.520877,
+    "geocode_precision": "google-address"
   },
   {
     "name": "焼肉LIKE 京站店",
@@ -35381,7 +36854,10 @@
         "published_at": "2020-07-06T10:00:42Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0594146,
+    "lng": 121.5249153,
+    "geocode_precision": "google-address"
   },
   {
     "name": "Saizeriya 中山南京店",
@@ -35458,7 +36934,10 @@
         "published_at": "2020-07-02T09:59:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0457175,
+    "lng": 121.5137595,
+    "geocode_precision": "google-address"
   },
   {
     "name": "山内鶏肉",
@@ -35475,7 +36954,10 @@
         "published_at": "2020-07-01T10:00:46Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0290232,
+    "lng": 121.5059033,
+    "geocode_precision": "google-address"
   },
   {
     "name": "来来水餃店",
@@ -35492,7 +36974,10 @@
         "published_at": "2020-06-30T10:00:36Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0288259,
+    "lng": 121.5056815,
+    "geocode_precision": "google-address"
   },
   {
     "name": "小螺波 XIAO LUO BO",
@@ -35589,7 +37074,10 @@
         "published_at": "2020-06-24T10:01:01Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0336789,
+    "lng": 121.544337,
+    "geocode_precision": "google-address"
   },
   {
     "name": "Soba Shinn & 柑橘",
@@ -35646,7 +37134,10 @@
         "published_at": "2020-06-21T10:00:42Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.044524,
+    "lng": 121.5126185,
+    "geocode_precision": "google-address"
   },
   {
     "name": "Love at First Bite - Bakery Cafe",
@@ -35763,7 +37254,10 @@
         "published_at": "2020-06-15T10:00:35Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0603319,
+    "lng": 121.5434724,
+    "geocode_precision": "google-address"
   },
   {
     "name": "源本家焼肉火鍋",
@@ -35780,7 +37274,10 @@
         "published_at": "2020-06-13T10:04:17Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.057238,
+    "lng": 121.5208345,
+    "geocode_precision": "google-address"
   },
   {
     "name": "鶏二拉麺",
@@ -35937,7 +37434,10 @@
         "published_at": "2020-06-05T10:00:55Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0703328,
+    "lng": 121.5117217,
+    "geocode_precision": "google-address"
   },
   {
     "name": "桔磨坊義式麺屋",
@@ -35974,7 +37474,10 @@
         "published_at": "2020-06-03T10:00:51Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0329419,
+    "lng": 121.5281162,
+    "geocode_precision": "google-address"
   },
   {
     "name": "豊盛号炭烤土司/紅茶牛奶双城店",
@@ -36011,7 +37514,10 @@
         "published_at": "2020-06-01T10:01:16Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1168842,
+    "lng": 121.5159178,
+    "geocode_precision": "google-address"
   },
   {
     "name": "三上咖哩",
@@ -36028,7 +37534,10 @@
         "published_at": "2020-05-31T09:57:14Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0445689,
+    "lng": 121.5465497,
+    "geocode_precision": "google-address"
   },
   {
     "name": "一番星拉麵",
@@ -36045,7 +37554,10 @@
         "published_at": "2020-05-30T09:42:33Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0825776,
+    "lng": 121.5667018,
+    "geocode_precision": "google-address"
   },
   {
     "name": "Mountain 30 山丼",
@@ -36082,7 +37594,10 @@
         "published_at": "2020-05-28T10:00:53Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0593733,
+    "lng": 121.5566933,
+    "geocode_precision": "google-address"
   },
   {
     "name": "今大魯肉飯",
@@ -36439,7 +37954,10 @@
         "published_at": "2020-05-09T09:55:58Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0529129,
+    "lng": 121.545538,
+    "geocode_precision": "google-address"
   },
   {
     "name": "人和園",
@@ -36588,7 +38106,10 @@
         "published_at": "2020-05-02T10:00:49Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0213666,
+    "lng": 121.5269088,
+    "geocode_precision": "google-address"
   },
   {
     "name": "倆男食所",
@@ -36665,7 +38186,10 @@
         "published_at": "2020-04-27T10:01:54Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0673988,
+    "lng": 121.5382758,
+    "geocode_precision": "google-address"
   },
   {
     "name": "老牌張猪脚飯",
@@ -36722,7 +38246,10 @@
         "published_at": "2020-04-24T10:01:03Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0637329,
+    "lng": 121.5115018,
+    "geocode_precision": "google-address"
   },
   {
     "name": "吾妹関東煮",
@@ -36759,7 +38286,10 @@
         "published_at": "2020-04-22T10:01:11Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0614869,
+    "lng": 121.5236995,
+    "geocode_precision": "google-address"
   },
   {
     "name": "松屋",
@@ -36816,7 +38346,10 @@
         "published_at": "2020-04-19T10:01:25Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.1120052,
+    "lng": 121.5102914,
+    "geocode_precision": "google-address"
   },
   {
     "name": "GABA 元気の源！嘎吧！",
@@ -36853,7 +38386,10 @@
         "published_at": "2020-04-17T09:59:43Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0792018,
+    "lng": 121.5427093,
+    "geocode_precision": "google-address"
   },
   {
     "name": "劉師傅極品排骨飯",
@@ -37010,7 +38546,10 @@
         "published_at": "2020-04-09T10:05:56Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0620038,
+    "lng": 121.5250302,
+    "geocode_precision": "google-address"
   },
   {
     "name": "阿宗麺線",
@@ -37047,7 +38586,10 @@
         "published_at": "2020-04-07T10:00:41Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0451651,
+    "lng": 121.5076455,
+    "geocode_precision": "google-address"
   },
   {
     "name": "金沢拉面",
@@ -37084,7 +38626,10 @@
         "published_at": "2020-04-05T09:58:00Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0648798,
+    "lng": 121.5109865,
+    "geocode_precision": "google-address"
   },
   {
     "name": "汕頭原汁牛肉麵",
@@ -37281,7 +38826,10 @@
         "published_at": "2020-03-25T10:00:37Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0526041,
+    "lng": 121.5226127,
+    "geocode_precision": "google-address"
   },
   {
     "name": "秋香媽媽味",
@@ -37398,7 +38946,10 @@
         "published_at": "2020-03-19T10:01:32Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0573449,
+    "lng": 121.5249714,
+    "geocode_precision": "google-address"
   },
   {
     "name": "池上便當",
@@ -37435,7 +38986,10 @@
         "published_at": "2020-03-17T10:00:29Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0623582,
+    "lng": 121.5249477,
+    "geocode_precision": "google-address"
   },
   {
     "name": "阿春粥店",
@@ -37472,7 +39026,10 @@
         "published_at": "2020-03-15T10:03:30Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0599372,
+    "lng": 121.5249028,
+    "geocode_precision": "google-address"
   },
   {
     "name": "金仙排骨飯",
@@ -37489,7 +39046,10 @@
         "published_at": "2020-03-14T10:00:55Z"
       }
     ],
-    "needs_manual_check": true
+    "needs_manual_check": false,
+    "lat": 25.0595578,
+    "lng": 121.5248608,
+    "geocode_precision": "google-address"
   },
   {
     "name": "鳥人拉面",

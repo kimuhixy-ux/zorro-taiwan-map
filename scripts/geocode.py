@@ -107,7 +107,16 @@ CITY_NAMES_ZH = [
 ]
 CITY_RE_ZH = re.compile("^(" + "|".join(CITY_NAMES_ZH) + ")")
 DISTRICT_RE_ZH = re.compile(r"^(\S+?[區市鄉鎮])")
-ROAD_RE_ZH = re.compile(r"(.+?(?:路|街|大道)(?:[一二三四五六七八九十]+段)?)")
+ROAD_RE_ZH = re.compile(r"(.+?(?:路|街|大道|巷|弄)(?:[一二三四五六七八九十]+段)?)")
+
+# LLM抽出結果に簡体字（区・号など）が混ざることがあり、正規表現が
+# 繁体字（區・號）前提のため通り名の切り出しに失敗する。クエリ生成時のみ
+# 繁体字に正規化する（stores.json内の元データは変更しない）。
+ZH_NORMALIZE = str.maketrans({"区": "區", "号": "號", "县": "縣"})
+
+
+def normalize_zh(address: str) -> str:
+    return address.translate(ZH_NORMALIZE)
 
 CITY_NAMES_EN = [
     "Taipei City", "New Taipei City", "Taoyuan City", "Taichung City", "Tainan City",
@@ -208,6 +217,8 @@ def geocode_address(address: str):
     戻り値: (lat, lng, precision) の3要素タプル、または None
     precision は "exact"（番地まで一致）または "approximate"（通り名レベル）
     """
+    address = normalize_zh(address)
+
     result = query_nominatim(address)
     if result:
         return result[0], result[1], "exact"
